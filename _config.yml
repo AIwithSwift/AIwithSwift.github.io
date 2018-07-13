@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            AI with Swift
+tagline:          'Bringing intelligence to your apps.'
+description:      'Bringing intelligence to your applications for iOS, macOS and beyond.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mars Geldard'
+  url:            https://twitter.com/themartianlife
+
+paginate:         5
+plugins:          [jekyll-paginate]
