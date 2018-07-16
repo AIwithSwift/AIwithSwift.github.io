@@ -24,7 +24,7 @@ github_username:  AIwithSwift
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
