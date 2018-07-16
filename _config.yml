@@ -1,5 +1,5 @@
 # Theme
-remote_theme: fongandrew/jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 
 # Dependencies
 markdown:         kramdown
