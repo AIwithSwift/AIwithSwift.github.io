@@ -28,6 +28,10 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
+# Theme settings
+logo: ""
+show_downloads: false
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
