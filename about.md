@@ -72,7 +72,7 @@ Mars can be found on [Twitter](https://twitter.com/TheMartianLife) (@TheMartianL
 
 ### Paris Buttfield-Addison
 
-Dr Paris Buttfield-Addison
+Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www.secretlab.com.au), an independent game development studio.
 
 
 
@@ -92,7 +92,7 @@ Paris lives in Hobart, Tasmania, Australia, and can be found on [Twitter](https:
 
 ### Jon Manning
 
-Dr Jon Manning is the co-founder of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. He runs Swift and AI training courses for O'Reilly Media, has written a [whole bunch of books](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Jonathon+Manning) about iOS development and game development, and has a PhD about jerks on the internet. He's currently working on Button Squid, a top-down puzzle game for iOS, and on the BAFTA- and IGF Seamus McNally Grand Prize-winning adventure game [Night in the Woods](http://www.nightinthewoods.com).
+Dr Jon Manning is the other co-founder of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. He runs Swift and AI training courses for O'Reilly Media, has written a [whole bunch of books](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Jonathon+Manning) about iOS development and game development, and has a PhD about jerks on the internet. He's currently working on Button Squid, a top-down puzzle game for iOS, and on the BAFTA- and IGF Seamus McNally Grand Prize-winning adventure game [Night in the Woods](http://www.nightinthewoods.com).
 
 Jon lives in Hobart, Tasmania, Australia, and can be found on [Twitter](https://twitter.com/desplesda) (@desplesda) and at [desplesda.net](http://desplesda.net)
 
