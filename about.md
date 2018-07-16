@@ -46,19 +46,19 @@ The book will be available for physical and digital pre-order from:
 
 <div class="maxwidth-container">
 	<div class="headshot">
-		<img src="{{ site.baseurl }}public/mars.png">
+		<img src="/public/mars.png">
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="{{ site.baseurl }}public/paris.png">
+		<img src="/public/paris.png">
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="{{ site.baseurl }}public/jon.png">
+		<img src="/public/jon.png">
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="{{ site.baseurl }}public/tim.png">
+		<img src="/public/tim.png">
 	</div>
 </div>
 
