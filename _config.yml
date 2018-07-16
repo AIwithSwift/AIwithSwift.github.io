@@ -24,7 +24,7 @@ github_username:  AIwithSwift
 
 # Build settings
 markdown: kramdown
-remote_theme: fongandrew/jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
 
