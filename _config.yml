@@ -1,6 +1,3 @@
-# Theme
-remote_theme: fongandrew/hydeout
-
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
@@ -22,6 +19,9 @@ baseurl:          # ''
 #   url:            https://twitter.com/fongandrewc
 
 paginate:         5
+
+# Theme
+remote_theme: fongandrew/hydeout
 
 plugins:
   - jekyll-feed
