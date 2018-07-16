@@ -1,3 +1,6 @@
+# Theme
+remote_theme: fongandrew/jekyll-theme-hydeout
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
@@ -7,7 +10,7 @@ title:            AI with Swift
 tagline:          'Bringing intelligence to your applications for iOS, macOS and beyond.'
 description:      'Bringing intelligence to your applications for iOS, macOS and beyond.'
 url:              https://aiwithswift.com
-baseurl:          '/'
+baseurl:          # ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
