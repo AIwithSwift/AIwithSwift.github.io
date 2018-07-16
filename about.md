@@ -4,22 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<script>
-.maxwidth-container {
-	width: 100%;
-}
-
-.headshot {
-	display: inline-block;
-	max-width: 20%;
-	max-height: 20%;
-}
-
-.headshot img {
-	border-radius: 100% !important
-}
-</script>
-
 **IMAGE**
 
 ## The Book
