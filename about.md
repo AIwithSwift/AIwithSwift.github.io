@@ -46,19 +46,19 @@ The book will be available for physical and digital pre-order from:
 
 <div class="maxwidth-container">
 	<div class="headshot">
-		<img src="/public/mars.png">
+		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/public/mars.png">
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="/public/paris.png">
+		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/public/paris.png">
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="/public/jon.png">
+		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/public/jon.png">
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="/public/tim.png">
+		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/public/tim.png">
 	</div>
 </div>
 
