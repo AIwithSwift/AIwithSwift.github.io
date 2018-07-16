@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Building AI on iOS with Open Source tools
+author: Jon Manning
+tags: IRL
 ---
 
 
