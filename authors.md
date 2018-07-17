@@ -32,11 +32,11 @@ Mars has been awarded the MJ Rees Prize (for excellence in Information Systems a
 
 <div class="fontawesome-container">
 <a href="http://www.themartianlife.com"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
-<a href="mailto:mail@themartianlife.com"><i class="fas fa-envelope-square" alt="Button link to email" title="Button link to email"></i></a>
-<a href="https://twitter.com/TheMartianLife"><i class="fab fa-twitter-square" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
-<a href="https://www.facebook.com/TheMartianLife"><i class="fab fa-facebook-square" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
-<a href="https://github.com/TheMartianLife"><i class="fab fa-github-square" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>
-<a href="https://www.linkedin.com/in/themartianlife/"><i class="fab fa-linkedin" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
+<a href="mailto:mail@themartianlife.com"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>
+<a href="https://twitter.com/TheMartianLife"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
+<a href="https://www.facebook.com/TheMartianLife"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="https://github.com/TheMartianLife"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>
+<a href="https://www.linkedin.com/in/themartianlife/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
 
 ### Paris Buttfield-Addison
@@ -45,12 +45,12 @@ Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www
 
 <div class="fontawesome-container">
 <a href="http://www.paris.id.au"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
-<a href="paris@paris.id.au"><i class="fas fa-envelope-square" alt="Button link to email" title="Button link to email"></i></a>
-<a href="https://twitter.com/parisba"><i class="fab fa-twitter-square" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
-<a href="https://www.facebook.com/parisba"><i class="fab fa-facebook-square" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="paris@paris.id.au"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>
+<a href="https://twitter.com/parisba"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
+<a href="https://www.facebook.com/parisba"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
 <a href="https://www.instagram.com/paris.id.au/"><i class="fab fa-instagram" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
 <a href="https://www.flickr.com/photos/parisba"><i class="fab fa-flickr" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
-<a href="https://www.linkedin.com/in/parisba/"><i class="fab fa-linkedin" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
+<a href="https://www.linkedin.com/in/parisba/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
 
 ### Jon Manning
