@@ -6,19 +6,19 @@ permalink: /authors/
 
 <div class="maxwidth-container">
 	<div class="headshot">
-		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/assets/images/mars.png?raw=true" />
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/assets/images/paris.png?raw=true" />
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" />
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/assets/images/jon.png?raw=true" />
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jon.png" />
 	</div>
 	&emsp;&ensp;
 	<div class="headshot">
-		<img src="https://github.com/AIwithSwift/AIwithSwift.github.io/blob/master/assets/images/tim.png?raw=true" />
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" />
 	</div>
 </div>
 
