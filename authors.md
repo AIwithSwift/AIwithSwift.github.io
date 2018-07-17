@@ -31,11 +31,11 @@ Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from D
 Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the [University of Tasmania](http://www.utas.edu.au), and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the [/dev/world](https://devworld.com.au) conference, and her state's branch of the [Australian Computer Society](https://www.acs.org.au) (ACS).
 
 <div class="fontawesome-container">
-<a href="http://www.themartianlife.com"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
-<a href="mailto:mail@themartianlife.com"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>
-<a href="https://twitter.com/TheMartianLife"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
-<a href="https://www.facebook.com/TheMartianLife"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
-<a href="https://github.com/TheMartianLife"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>
+<a href="http://www.themartianlife.com"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
+<a href="mailto:mail@themartianlife.com"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>&emsp;
+<a href="https://twitter.com/TheMartianLife"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>&emsp;
+<a href="https://www.facebook.com/TheMartianLife"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
+<a href="https://github.com/TheMartianLife"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>&emsp;
 <a href="https://www.linkedin.com/in/themartianlife/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
 
@@ -44,12 +44,12 @@ Mars has been awarded the MJ Rees Prize (for excellence in Information Systems a
 Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. Paris has worked on the multi-award winning ABC Play School iPad games, the BAFA-winning [Night in the Woods](http://www.nightinthewoods.com), the Qantas airlines Joey Playbox games, as well as the [YarnSpinner](http://github.com/thesecretlab/yarnspinner) narrative game framework. Paris formerly worked as mobile product manager for Meebo (acquired by Google), has a degree in medieval history, a PhD on piles of paper documents (literally), and writes technical books on mobile and game development ([more than 20 so far](https://www.amazon.com/default/e/B007RTYDXC/ref=sr_ntt_srch_lnk_1?qid=1531416457&sr=8-1&redirectedFromKindleDbs=true)) for O’Reilly Media. Paris particularly enjoys game design, statistics, machine learning, and human-centred technology research.
 
 <div class="fontawesome-container">
-<a href="http://www.paris.id.au"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
-<a href="paris@paris.id.au"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>
-<a href="https://twitter.com/parisba"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
-<a href="https://www.facebook.com/parisba"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
-<a href="https://www.instagram.com/paris.id.au/"><i class="fab fa-instagram" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
-<a href="https://www.flickr.com/photos/parisba"><i class="fab fa-flickr" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="http://www.paris.id.au"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
+<a href="paris@paris.id.au"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>&emsp;
+<a href="https://twitter.com/parisba"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>&emsp;
+<a href="https://www.facebook.com/parisba"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
+<a href="https://www.instagram.com/paris.id.au/"><i class="fab fa-instagram" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
+<a href="https://www.flickr.com/photos/parisba"><i class="fab fa-flickr" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
 <a href="https://www.linkedin.com/in/parisba/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
 
