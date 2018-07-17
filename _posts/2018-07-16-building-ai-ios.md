@@ -5,7 +5,7 @@ author: Jon Manning
 tags: IRL
 ---
 
-![The site authors speaking at OSCON]({{ site.url }}/assets/images/oscon1.png)
+![The site authors speaking at OSCON]({{ site.url }}/oscon1.png)
 
 ## Topics
  * Stuff
