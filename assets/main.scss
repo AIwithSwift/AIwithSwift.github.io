@@ -20,6 +20,10 @@ $brand-color:  #ED5837;
 	text-align: center;
 }
 
+.fontawesome-container a:hover {
+	color: lighten($brand-color, 25%);
+}
+
 /* About page headshots */
 .headshot {
 	display: inline-block;
