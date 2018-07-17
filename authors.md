@@ -4,6 +4,8 @@ title: Authors
 permalink: /authors/
 ---
 
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
 <div class="maxwidth-container">
 	<div class="headshot">
 		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
@@ -29,6 +31,13 @@ Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from D
 Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the [University of Tasmania](http://www.utas.edu.au), and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the [/dev/world](https://devworld.com.au) conference, and her state's branch of the [Australian Computer Society](https://www.acs.org.au) (ACS).
 
 Mars can be found on [Twitter](https://twitter.com/TheMartianLife) (@TheMartianLife) and at [themartianlife.com](http://www.themartianlife.com)
+
+<font size=180%><a href="mailto:mail@themartianlife.com"><i class="fas fa-envelope-square" alt="Button link to email" title="Button link to email"></i></a>
+<a href="https://twitter.com/TheMartianLife"><i class="fab fa-twitter-square" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
+<a href="https://www.facebook.com/TheMartianLife"><i class="fab fa-facebook" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="https://github.com/TheMartianLife"><i class="fab fa-github-square" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>
+<a href="https://www.linkedin.com/in/themartianlife/"><i class="fab fa-linkedin" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
+<a href="http://steamcommunity.com/id/AttackOnMars/"><i class="fab fa-steam-square" alt="Button link to Steam profile" title="Button link to Steam profile"></i></a></font>
 
 ### Paris Buttfield-Addison
 
