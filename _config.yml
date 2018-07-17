@@ -21,7 +21,7 @@ baseurl:          # ''
 paginate:         5
 
 # Theme
-remote_theme: fongandrew/hydeout
+theme:            jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
