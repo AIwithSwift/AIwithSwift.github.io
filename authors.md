@@ -10,15 +10,10 @@ permalink: /authors/
 
 ### Mars Geldard
 
-<div class="maxwidth-container">
-	<div class="headshot">
-		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
-	</div>
-</div>
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" align="right" width="40%" style="padding: 20px;"/>
+Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from Down Under in <a href="https://www.lonelyplanet.com/australia/tasmania">Tasmania</a>. A compulsive volunteer at industry events, Mars also teaches artificial intelligence to first-year ICT students, hikes around in the Tasmanian wilderness, dabbles in research, and builds [Game of Thrones in Minecraft](http://www.westeroscraft.com).
 
-Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from Down Under in [Tasmania](https://www.lonelyplanet.com/australia/tasmania). A compulsive volunteer at industry events, Mars also teaches artificial intelligence to first-year ICT students, hikes around in the Tasmanian wilderness, dabbles in research, and builds [Game of Thrones in Minecraft](http://www.westeroscraft.com).
-
-Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the [University of Tasmania](http://www.utas.edu.au), and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the [/dev/world](https://devworld.com.au) conference, and her state's branch of the [Australian Computer Society](https://www.acs.org.au) (ACS).
+Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the <a href="http://www.utas.edu.au">University of Tasmania</a>, and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the <a href="https://devworld.com.au">/dev/word</a> conference, and her state's branch of the <a href="https://www.acs.org.au">Australian Computer Society</a> (ACS).
 
 <div class="fontawesome-container">
 <a href="http://www.themartianlife.com"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
@@ -28,20 +23,16 @@ Mars has been awarded the MJ Rees Prize (for excellence in Information Systems a
 <a href="https://github.com/TheMartianLife"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>&emsp;
 <a href="https://www.linkedin.com/in/themartianlife/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
+</p>
 
 ---
 
 ### Paris Buttfield-Addison
 
-<div class="maxwidth-container">
-	<div class="headshot">
-		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" />
-	</div>
-</div>
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" align="left" width="40%" style="padding: 20px;"/>
+Dr Paris Buttfield-Addison is one of the co-founders of <a href="https://www.secretlab.com.au">Secret Lab</a>, an independent game development studio. Paris has worked on the multi-award winning ABC Play School iPad games, the BAFA-winning <a href="http://www.nightinthewoods.com">Night in the Woods</a>, the Qantas airlines Joey Playbox games, as well as the <a href="http://github.com/thesecretlab/yarnspinner">YarnSpinner</a>narrative game framework.
 
-Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. Paris has worked on the multi-award winning ABC Play School iPad games, the BAFA-winning [Night in the Woods](http://www.nightinthewoods.com), the Qantas airlines Joey Playbox games, as well as the [YarnSpinner](http://github.com/thesecretlab/yarnspinner) narrative game framework.
-
-Paris formerly worked as mobile product manager for Meebo (acquired by Google), has a degree in medieval history, a PhD on piles of paper documents (literally), and writes technical books on mobile and game development ([more than 20 so far](https://www.amazon.com/default/e/B007RTYDXC/ref=sr_ntt_srch_lnk_1?qid=1531416457&sr=8-1&redirectedFromKindleDbs=true)) for O’Reilly Media. Paris particularly enjoys game design, statistics, machine learning, and human-centred technology research.
+Paris formerly worked as mobile product manager for Meebo (acquired by Google), has a degree in medieval history, a PhD on piles of paper documents (literally), and writes technical books on mobile and game development (<a href="https://www.amazon.com/default/e/B007RTYDXC/ref=sr_ntt_srch_lnk_1?qid=1531416457&sr=8-1&redirectedFromKindleDbs=true">more than 20 so far</a>) for O’Reilly Media. Paris particularly enjoys game design, statistics, machine learning, and human-centred technology research.
 
 <div class="fontawesome-container">
 <a href="http://www.paris.id.au"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
@@ -52,6 +43,7 @@ Paris formerly worked as mobile product manager for Meebo (acquired by Google), 
 <a href="https://www.flickr.com/photos/parisba"><i class="fab fa-flickr" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
 <a href="https://www.linkedin.com/in/parisba/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
+</p>
 
 ---
 
@@ -74,7 +66,7 @@ Dr Jon Manning is the other co-founder of <a href="https://www.secretlab.com.au"
 ### Tim Nugent
 
 
-<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" align="left" width="40%"/>
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" align="left" width="40%" style="padding: 20px;"/>
 Dr Tim Nugent, more commonly known as <i>Hey you! Get the hell out of my sorghum field!</i>, is a giant bag of those edible packaging peanuts that was brought to life through a curse.
 
 Upon finding itself alive, the packaging peanuts spent the early years of its life attempting to blend in with the humans around it and decided the best way to do this was by getting a PhD in Computing.
