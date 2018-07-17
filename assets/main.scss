@@ -9,17 +9,11 @@ $brand-color:  #ED5837;
 
 @import "{{ site.theme }}";
 
-/* Overall changes */
-.maxwidth-container {
-	width: 100%;
-	text-align: center;
-}
-
 /* Author page headshots */
 .headshot {
 	display: inline-block;
-	max-width: 20%;
-	max-height: 20%;
+	text-align: center;
+	max-width: 40%;
 }
 
 .headshot img {

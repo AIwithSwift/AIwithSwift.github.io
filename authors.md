@@ -26,6 +26,10 @@ permalink: /authors/
 
 ### Mars Geldard
 
+<div class="headshot">
+	<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
+</div>
+
 Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from Down Under in [Tasmania](https://www.lonelyplanet.com/australia/tasmania). A compulsive volunteer at industry events, Mars also teaches artificial intelligence to first-year ICT students, hikes around in the Tasmanian wilderness, dabbles in research, and builds [Game of Thrones in Minecraft](http://www.westeroscraft.com).
 
 Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the [University of Tasmania](http://www.utas.edu.au), and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the [/dev/world](https://devworld.com.au) conference, and her state's branch of the [Australian Computer Society](https://www.acs.org.au) (ACS).
@@ -88,4 +92,6 @@ On the side he helps write [books](https://www.amazon.com/default/e/B00PJ0L1N6/r
 <a href="https://www.linkedin.com/in/tim-nugent-826aa7a5/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
 
-<p class="message">If you think these humans sound interesting you can <a href="https://www.secretlab.com.au/books">check out some of their other titles!</a></p>
+---
+
+If you think these humans sound interesting you can <a href="https://www.secretlab.com.au/books">check out some of their other titles!
