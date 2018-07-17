@@ -57,7 +57,14 @@ Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www
 
 Dr Jon Manning is the other co-founder of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. He runs Swift and AI training courses for O'Reilly Media, has written a [whole bunch of books](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Jonathon+Manning) about iOS development and game development, and has a PhD about jerks on the internet. He's currently working on Button Squid, a top-down puzzle game for iOS, and on the BAFTA- and IGF Seamus McNally Grand Prize-winning adventure game [Night in the Woods](http://www.nightinthewoods.com).
 
-Jon lives in Hobart, Tasmania, Australia, and can be found on [Twitter](https://twitter.com/desplesda) (@desplesda) and at [desplesda.net](http://desplesda.net)
+<div class="fontawesome-container">
+<a href="http://desplesda.net"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
+<a href="jon@secretlab.com.au"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>&emsp;
+<a href="https://twitter.com/desplesda"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>&emsp;
+<a href="https://github.com/desplesda"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>&emsp;
+<a href="https://www.linkedin.com/in/jonmanning/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
+</div>
+
 
 ### Tim Nugent
 
@@ -69,6 +76,11 @@ After settling on the name Tim Nugent, he now spends all his time attempting to 
 
 On the side he helps write [books](https://www.amazon.com/default/e/B00PJ0L1N6/ref=sr_ntt_srch_lnk_4?qid=1531416457&sr=8-4&redirectedFromKindleDbs=true) as the feel of paper is relaxing.
 
-Tim lives in Hobart, and can be found on [Twitter](https://twitter.com/The_Mcjones) (@The_McJones) and at [lonely.coffee](https://www.lonely.coffee)
+<div class="fontawesome-container">
+<a href="https://www.lonely.coffee"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
+<a href="tim@lonely.coffee"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>&emsp;
+<a href="https://twitter.com/The_Mcjones"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>&emsp;
+<a href="https://www.linkedin.com/in/tim-nugent-826aa7a5/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
+</div>
 
 <p class="message">If you think these humans sound interesting you can <a href="https://www.secretlab.com.au/books">check out some of their other titles!</a></p>
