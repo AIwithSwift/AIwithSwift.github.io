@@ -9,67 +9,10 @@ $brand-color:  #FC0206;
 
 @import "{{ site.theme }}";
 
-/* Custom Orange colour theme */
-.theme-base-custom .sidebar {
-	background-color: #dc6243;
-}
-.theme-base-custom .content a,
-.theme-base-custom .related-posts li a:hover {
-	color: #dc6243;
-}
-
-
-
 /* Overall changes */
 .maxwidth-container {
 	width: 100%;
 }
-
-html button:hover {
-	background-color: rgb(238,177,161);
-}
-
-
-
-/* Content container changes */
-.container button {
-	color: white;
-	background-color: #dc6243;
-	border-width: 0px;
-	border-radius: 4px;
-	padding: 12px 20px;
-	margin: 0px 0px 8px 0px;
-	font-size: inherit;
-	font-weight: bold;
-}
-
-
-
-/* Sidebar changes */
-.sidebar h1 {
-	color: #fff;
-	margin-top: 0;
-	font-weight: normal;
-	font-size: 3.75rem;
-}
-
-.sidebar a:hover {
-	text-decoration: none;
-	color: rgba(255,255,255,.5);
-}
-
-.sidebar button {
-	color: #dc6243;
-	background-color: white;
-	border-width: 0px;
-	border-radius: 4px;
-	padding: 12px 20px;
-	margin: 0px 0px 8px 0px;
-	font-size: inherit;
-	font-weight: bold;
-}
-
-
 
 /* About page headshots */
 .headshot {

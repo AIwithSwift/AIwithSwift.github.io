@@ -4,7 +4,7 @@ title: Book
 permalink: /book/
 ---
 
-**(IMAGE)**
+![Cover of the upcoming Practical AI with Swift book]({{ site.url }}/assets/images/cover.png)
 
 ## The Book
 
