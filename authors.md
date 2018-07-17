@@ -43,7 +43,15 @@ Mars has been awarded the MJ Rees Prize (for excellence in Information Systems a
 
 Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. Paris has worked on the multi-award winning ABC Play School iPad games, the BAFA-winning [Night in the Woods](http://www.nightinthewoods.com), the Qantas airlines Joey Playbox games, as well as the [YarnSpinner](http://github.com/thesecretlab/yarnspinner) narrative game framework. Paris formerly worked as mobile product manager for Meebo (acquired by Google), has a degree in medieval history, a PhD on piles of paper documents (literally), and writes technical books on mobile and game development ([more than 20 so far](https://www.amazon.com/default/e/B007RTYDXC/ref=sr_ntt_srch_lnk_1?qid=1531416457&sr=8-1&redirectedFromKindleDbs=true)) for O’Reilly Media. Paris particularly enjoys game design, statistics, machine learning, and human-centred technology research.
 
-Paris lives in Hobart, Tasmania, Australia, and can be found on [Twitter](https://twitter.com/parisba) (@parisba) and at [paris.id.au](http://www.paris.id.au)
+<div class="fontawesome-container">
+<a href="http://www.paris.id.au"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
+<a href="paris@paris.id.au"><i class="fas fa-envelope-square" alt="Button link to email" title="Button link to email"></i></a>
+<a href="https://twitter.com/parisba"><i class="fab fa-twitter-square" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
+<a href="https://www.facebook.com/parisba"><i class="fab fa-facebook" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="https://www.instagram.com/paris.id.au/"><i class="fa fa-instagram" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="https://www.flickr.com/photos/parisba"><i class="fa fa-flickr" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
+<a href="https://www.linkedin.com/in/parisba/"><i class="fab fa-linkedin" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
+</div>
 
 ### Jon Manning
 
