@@ -15,16 +15,7 @@ $brand-color:  #ED5837;
 	text-align: center;
 }
 
-.fontawesome-container a {
-	font-size: 250%;
-	text-align: center;
-}
-
-.fontawesome-container a:hover {
-	color: lighten($brand-color, 25%);
-}
-
-/* About page headshots */
+/* Author page headshots */
 .headshot {
 	display: inline-block;
 	max-width: 20%;
@@ -44,4 +35,17 @@ button {
 	margin: 0px 0px 8px 0px;
 	font-size: inherit;
 	font-weight: bold;
+}
+
+/* Author page icons */
+.fontawesome-container {
+	text-align: center;
+}
+
+.fontawesome-container a {
+	font-size: 250%;
+}
+
+.fontawesome-container a:hover {
+	color: lighten($brand-color, 25%);
 }
