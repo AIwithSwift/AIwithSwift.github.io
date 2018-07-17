@@ -4,6 +4,8 @@ title: Authors
 permalink: /authors/
 ---
 
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+
 <div class="maxwidth-container">
 	<div class="headshot">
 		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
