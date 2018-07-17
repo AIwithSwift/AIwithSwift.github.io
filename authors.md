@@ -52,7 +52,7 @@ Paris formerly worked as mobile product manager for Meebo (acquired by Google), 
 <p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jon.png" align="right" width="40%"/>
 Dr Jon Manning is the other co-founder of <a href="https://www.secretlab.com.au">Secret Lab</a>, an independent game development studio. He runs Swift and AI training courses for O'Reilly Media, has written a <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Jonathon+Manning">whole bunch of books</a> about iOS development and game development, and has a PhD about jerks on the internet. He's currently working on Button Squid, a top-down puzzle game for iOS, and on the BAFTA- and IGF Seamus McNally Grand Prize-winning adventure game <a href="http://www.nightinthewoods.com">Night in the Woods</a>.
 </p>
-<br>
+
 <div class="fontawesome-container">
 <a href="http://desplesda.net"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
 <a href="jon@secretlab.com.au"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>&emsp;
