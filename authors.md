@@ -6,28 +6,14 @@ permalink: /authors/
 
 <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 
+---
+
+### Mars Geldard
+
 <div class="maxwidth-container">
 	<div class="headshot">
 		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
 	</div>
-	&emsp;&ensp;
-	<div class="headshot">
-		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" />
-	</div>
-	&emsp;&ensp;
-	<div class="headshot">
-		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jon.png" />
-	</div>
-	&emsp;&ensp;
-	<div class="headshot">
-		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" />
-	</div>
-</div>
-
-### Mars Geldard
-
-<div class="headshot">
-	<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" />
 </div>
 
 Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from Down Under in [Tasmania](https://www.lonelyplanet.com/australia/tasmania). A compulsive volunteer at industry events, Mars also teaches artificial intelligence to first-year ICT students, hikes around in the Tasmanian wilderness, dabbles in research, and builds [Game of Thrones in Minecraft](http://www.westeroscraft.com).
@@ -47,6 +33,12 @@ Mars has been awarded the MJ Rees Prize (for excellence in Information Systems a
 
 ### Paris Buttfield-Addison
 
+<div class="maxwidth-container">
+	<div class="headshot">
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" />
+	</div>
+</div>
+
 Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. Paris has worked on the multi-award winning ABC Play School iPad games, the BAFA-winning [Night in the Woods](http://www.nightinthewoods.com), the Qantas airlines Joey Playbox games, as well as the [YarnSpinner](http://github.com/thesecretlab/yarnspinner) narrative game framework. Paris formerly worked as mobile product manager for Meebo (acquired by Google), has a degree in medieval history, a PhD on piles of paper documents (literally), and writes technical books on mobile and game development ([more than 20 so far](https://www.amazon.com/default/e/B007RTYDXC/ref=sr_ntt_srch_lnk_1?qid=1531416457&sr=8-1&redirectedFromKindleDbs=true)) for O’Reilly Media. Paris particularly enjoys game design, statistics, machine learning, and human-centred technology research.
 
 <div class="fontawesome-container">
@@ -63,6 +55,12 @@ Dr Paris Buttfield-Addison is one of the co-founders of [Secret Lab](https://www
 
 ### Jon Manning
 
+<div class="maxwidth-container">
+	<div class="headshot">
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jon.png" />
+	</div>
+</div>
+
 Dr Jon Manning is the other co-founder of [Secret Lab](https://www.secretlab.com.au), an independent game development studio. He runs Swift and AI training courses for O'Reilly Media, has written a [whole bunch of books](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Jonathon+Manning) about iOS development and game development, and has a PhD about jerks on the internet. He's currently working on Button Squid, a top-down puzzle game for iOS, and on the BAFTA- and IGF Seamus McNally Grand Prize-winning adventure game [Night in the Woods](http://www.nightinthewoods.com).
 
 <div class="fontawesome-container">
@@ -76,6 +74,12 @@ Dr Jon Manning is the other co-founder of [Secret Lab](https://www.secretlab.com
 ---
 
 ### Tim Nugent
+
+<div class="maxwidth-container">
+	<div class="headshot">
+		<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" />
+	</div>
+</div>
 
 Dr Tim Nugent, more commonly known as *Hey you! Get the hell out of my sorghum field!*, is a giant bag of those edible packaging peanuts that was brought to life through a curse.
 
