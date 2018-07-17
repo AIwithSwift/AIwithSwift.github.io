@@ -31,7 +31,7 @@ Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from D
 Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the [University of Tasmania](http://www.utas.edu.au), and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the [/dev/world](https://devworld.com.au) conference, and her state's branch of the [Australian Computer Society](https://www.acs.org.au) (ACS).
 
 <div class="fontawesome-container">
-<a href="http://www.themartianlife.com"><i class="fab fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
+<a href="http://www.themartianlife.com"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>
 <a href="mailto:mail@themartianlife.com"><i class="fas fa-envelope-square" alt="Button link to email" title="Button link to email"></i></a>
 <a href="https://twitter.com/TheMartianLife"><i class="fab fa-twitter-square" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>
 <a href="https://www.facebook.com/TheMartianLife"><i class="fab fa-facebook" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>
