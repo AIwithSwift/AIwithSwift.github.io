@@ -9,9 +9,6 @@ $brand-color:  #ED5837;
 
 @import "{{ site.theme }}";
 
-$fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
-
 /* Overall changes */
 .maxwidth-container {
 	width: 100%;
