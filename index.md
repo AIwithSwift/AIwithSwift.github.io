@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Bringing intelligence to your applications for iOS, macOS and beyond. Also on [Twitter](https://twitter.com/aiwithswift).
+**Short Book Bio, cover image, buy button and link to book page.**
