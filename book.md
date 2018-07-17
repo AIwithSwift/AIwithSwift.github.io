@@ -4,11 +4,11 @@ title: Book
 permalink: /book/
 ---
 
-**IMAGE**
+**(IMAGE)**
 
 ## The Book
 
-**BOOK BIO**
+**(BOOK BIO)**
 
 The book will be available for physical and digital pre-order from:
 
