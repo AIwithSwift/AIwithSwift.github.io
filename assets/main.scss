@@ -24,3 +24,14 @@ $brand-color:  #FC0206;
 .headshot img {
 	border-radius: 100% !important
 }
+
+button {
+	color: white;
+	background-color: $brand-color;
+	border-width: 0px;
+	border-radius: 4px;
+	padding: 12px 20px;
+	margin: 0px 0px 8px 0px;
+	font-size: inherit;
+	font-weight: bold;
+}
