@@ -40,6 +40,7 @@ Paris formerly worked as mobile product manager for Meebo (acquired by Google), 
 <a href="https://twitter.com/parisba"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>&emsp;
 <a href="https://www.facebook.com/parisba"><i class="fab fa-facebook-f" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
 <a href="https://www.instagram.com/paris.id.au/"><i class="fab fa-instagram" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
+<a href="https://github.com/thesecretlab"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>&emsp;
 <a href="https://www.flickr.com/photos/parisba"><i class="fab fa-flickr" alt="Button link to Facebook profile" title="Button link to Facebook profile"></i></a>&emsp;
 <a href="https://www.linkedin.com/in/parisba/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
