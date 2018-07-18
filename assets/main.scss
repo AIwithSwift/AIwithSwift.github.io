@@ -19,11 +19,19 @@ $brand-color:  #ED5837;
 .headshot {
 	display: inline-block;
 	width: 40%;
-	padding: 1em 2em;
+
 }
 
 .headshot img {
 	border-radius: 100% !important
+}
+
+.rightalign {
+	padding: 0 0 1em 2em;
+}
+
+.leftalign {
+	padding: 0 2em 1em 0;
 }
 
 .postimage {
