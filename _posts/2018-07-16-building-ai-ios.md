@@ -5,8 +5,7 @@ author: Jon Manning
 tags: IRL
 ---
 
-![The site authors speaking at OSCON](/assets/images/oscon1.png)
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/oscon1.png"/>
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/oscon1.jpg" />
 
 ## Topics
  * Stuff
