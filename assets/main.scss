@@ -16,21 +16,15 @@ $brand-color:  #ED5837;
 }
 
 /* Author page headshots */
-#headshot {
+.rightalignheadshot {
 	display: inline-block;
 	width: 40%;
-
-}
-
-#headshot img {
-	border-radius: 100% !important
-}
-
-.rightalign {
 	padding: 0 0 1em 2em;
 }
 
-.leftalign {
+.leftalignheadshot {
+	display: inline-block;
+	width: 40%;
 	padding: 0 2em 1em 0;
 }
 
