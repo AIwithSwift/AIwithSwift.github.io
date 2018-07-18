@@ -10,7 +10,7 @@ permalink: /authors/
 
 ### Mars Geldard
 
-<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" align="right" class="headshot" class="rightalign" />
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars.png" align="right" id="headshot" class="rightalign" />
 Marina Rose Geldard, more commonly known as Mars, is a Computer Scientist from Down Under in <a href="https://www.lonelyplanet.com/australia/tasmania">Tasmania</a>. A compulsive volunteer at industry events, Mars also teaches artificial intelligence to first-year ICT students, hikes around in the Tasmanian wilderness, dabbles in research, and builds <a href="http://www.westeroscraft.com">Game of Thrones in Minecraft</a>.
 </p><p>
 Mars has been awarded the MJ Rees Prize (for excellence in Information Systems academia) at the <a href="http://www.utas.edu.au">University of Tasmania</a>, and is an Apple WWDC Scholarship recipient for 2018. Mars serves on the organising committee for Australia’s longest running Apple developer event, the <a href="https://devworld.com.au">/dev/word</a> conference, and her state's branch of the <a href="https://www.acs.org.au">Australian Computer Society</a> (ACS).
@@ -29,7 +29,7 @@ Mars has been awarded the MJ Rees Prize (for excellence in Information Systems a
 
 ### Paris Buttfield-Addison
 
-<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" align="left" class="headshot" class="leftalign" />
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/paris.png" align="left" id="headshot" class="leftalign" />
 Dr Paris Buttfield-Addison is one of the co-founders of <a href="https://www.secretlab.com.au">Secret Lab</a>, an independent game development studio. Paris has worked on the multi-award winning ABC Play School iPad games, the BAFTA-winning <a href="http://www.nightinthewoods.com">Night in the Woods</a>, the Qantas airlines Joey Playbox games, as well as the <a href="http://github.com/thesecretlab/yarnspinner">Yarn Spinner</a> narrative game framework.
 </p><p>
 Paris formerly worked as mobile product manager for Meebo (acquired by Google), has a degree in medieval history, a PhD on piles of paper documents (literally), and writes technical books on mobile and game development (<a href="https://www.amazon.com/default/e/B007RTYDXC/ref=sr_ntt_srch_lnk_1?qid=1531416457&sr=8-1&redirectedFromKindleDbs=true">more than 20 so far</a>) for O’Reilly Media. Paris particularly enjoys game design, statistics, machine learning, and human-centred technology research.
@@ -49,7 +49,7 @@ Paris formerly worked as mobile product manager for Meebo (acquired by Google), 
 
 ### Jon Manning
 
-<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jon.png" align="right" class="headshot" class="rightalign" />
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jon.png" align="right" id="headshot" class="rightalign" />
 Dr Jon Manning is the other co-founder of <a href="https://www.secretlab.com.au">Secret Lab</a>, an independent game development studio. He runs Swift and AI training courses for O'Reilly Media, has written a <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Jonathon+Manning">whole bunch of books</a> about iOS development and game development, and has a PhD about jerks on the internet.
 </p><p>
 He is the creator of the <a href="http://github.com/thesecretlab/yarnspinner">Yarn Spinner</a> branching narrative tool, as well as the sprite-cruncher fondly nicknamed <a href="https://twitter.com/desplesda/status/752318314953662464">Grabthar's Hammer</a>, and is passionate about creating free and open tools for everyone to make creative and clever stuff with.
@@ -69,7 +69,7 @@ He's currently working on Button Squid, a top-down puzzle game for iOS, and on t
 ### Tim Nugent
 
 
-<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" align="left" class="headshot" class="leftalign" />
+<p><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/tim.png" align="left" id="headshot" class="leftalign" />
 Dr Tim Nugent, more commonly known as <i>Hey you! Get the hell out of my sorghum field!</i>, is a giant bag of those edible packaging peanuts that was brought to life through a curse.
 </p><p>
 Upon finding itself alive, the packaging peanuts spent the early years of its life attempting to blend in with the humans around it and decided the best way to do this was by getting a PhD in Computing.
