@@ -5,7 +5,7 @@ author: Jon Manning
 tags: IRL
 ---
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/oscon1.jpg" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/oscon1.jpg"  class="postimage" />
 
 ## Topics
  * Stuff
