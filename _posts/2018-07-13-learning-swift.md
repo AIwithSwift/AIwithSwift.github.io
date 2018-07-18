@@ -5,7 +5,7 @@ author: Mars Geldard
 tags: IRL
 ---
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/screenshot.png" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/screenshot.png" width="100%" />
 
 As we form this site--excited about the opportunity to enthuse about and share our knowledge of Swift and AI in general--we are spooling up for a week of presenting at one of our favourite conferences, [OSCON](https://conferences.oreilly.com/oscon/oscon-or). In it's 20th year in 2018, and back in the Portland we love, we are pleased to be speaking about games, AI and Swift in the same week.
 
