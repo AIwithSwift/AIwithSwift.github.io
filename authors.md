@@ -74,9 +74,7 @@ Dr Tim Nugent, more commonly known as <i>Hey you! Get the hell out of my sorghum
 </p><p>
 Upon finding itself alive, the packaging peanuts spent the early years of its life attempting to blend in with the humans around it and decided the best way to do this was by getting a PhD in Computing.
 </p><p>
-After settling on the name Tim Nugent, he now spends all his time attempting to cure the curse and return once more unto the sweet bliss of being a shipping product.
-</p><p>
-On the side he helps write <a href="https://www.amazon.com/default/e/B00PJ0L1N6/ref=sr_ntt_srch_lnk_4?qid=1531416457&sr=8-4&redirectedFromKindleDbs=true">books</a> as the feel of paper is relaxing.</p>
+After settling on the name Tim Nugent, he now spends all his time attempting to cure the curse and return once more unto the sweet bliss of being a shipping product. On the side he helps write <a href="https://www.amazon.com/default/e/B00PJ0L1N6/ref=sr_ntt_srch_lnk_4?qid=1531416457&sr=8-4&redirectedFromKindleDbs=true">books</a> as the feel of paper is relaxing.</p>
 
 <div class="fontawesome-container">
 <a href="https://www.lonely.coffee"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
