@@ -81,6 +81,7 @@ After settling on the name Tim Nugent, he now spends all his time attempting to 
 <a href="https://www.lonely.coffee"><i class="fa fa-home" alt="Button link to Website" title="Button link to Website"></i></a>&emsp;
 <a href="tim@lonely.coffee"><i class="fas fa-envelope" alt="Button link to email" title="Button link to email"></i></a>&emsp;
 <a href="https://twitter.com/The_Mcjones"><i class="fab fa-twitter" alt="Button link to Twitter profile" title="Button link to Twitter profile"></i></a>&emsp;
+<a href="https://github.com/mcjones"><i class="fab fa-github" alt="Button link to GitHub profile" title="Button link to GitHub profile"></i></a>&emsp;
 <a href="https://www.linkedin.com/in/tim-nugent-826aa7a5/"><i class="fab fa-linkedin-in" alt="Button link to LinkedIn profile" title="Button link to LinkedIn profile"></i></a>
 </div>
 
