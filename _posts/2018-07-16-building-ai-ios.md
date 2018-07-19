@@ -23,9 +23,9 @@ Of course, training a model from your own data can take a long time, and sometim
 
 It's worth pointing out that all of these models have their own license terms that you must follow. Many are under open source licenses, but some restrict their use to academic and personal use. Always read the terms!
 
+## Our Code
+
+If you'd like to play with the code that we put together over the course of the workshop, you can [find it on GitHub](https://github.com/thesecretlab/machine-overlord-and-you). We've released it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
 We're extremely pleased to have had the opportunity to present this workshop at OSCON's 20th anniversary event, and we're looking forward to sharing more in the future!
 
-<!--
-## Use
-This content was written by the authors named above, release for use under the [MIT License](https://opensource.org/licenses/MIT).
--->
