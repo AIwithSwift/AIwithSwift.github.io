@@ -7,7 +7,7 @@ tags: IRL
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/oscon1.jpg"  class="postimage" />
 
-This year at OSCON (LINK), we were thrilled to have the opportunity to present our workshop, _Machine overlord and you: Building AI on iOS with open source tools_. In this workshop, we explored several extremely cool libraries and practical techniques that make use of Core ML and Vision, which are the built-in machine learning and computer vision frameworks that ship with iOS 11.
+This year at [OSCON](http://oscon.com), we were thrilled to have the opportunity to present our workshop, _Machine overlord and you: Building AI on iOS with open source tools_. In this workshop, we explored several extremely cool libraries and practical techniques that make use of Core ML and Vision, which are the built-in machine learning and computer vision frameworks that ship with iOS 11.
 
 In this post, we'll point you at several of the resources we used and demonstrated in the workshop. There's a lot of fantastic material out there for getting started with these topics!
 
