@@ -32,7 +32,7 @@ On top of a quick into to the Swift language and the benefits of learning and pl
 
  * [Learning Swift 3rd Edition](http://shop.oreilly.com/product/0636920083566.do)
 
- * [A list of Awesome Playgrounds on GitHub](https://github.com/uraimo/Awesome-Swift-Playgrounds) that is not ours but is really great and we refer to it all the time for illustrating what Playgrounds can ge used to teach and learn
+ * [A list of Awesome Playgrounds on GitHub](https://github.com/uraimo/Awesome-Swift-Playgrounds) that is not ours but is really great and we refer to it all the time for illustrating what Playgrounds can be used to teach and learn
 
 ## Use
 This content was written by the authors named above, release for use under the [MIT License](https://opensource.org/licenses/MIT).
