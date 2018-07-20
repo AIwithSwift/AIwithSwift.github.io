@@ -2,9 +2,11 @@
 layout: home
 ---
 
+<!--
 ![The upcoming Practical AI with Swift book]({{ site.url }}/assets/images/splash.png)
 
 **(Buy button and link to book page)**
+ -->
 
 "*Artificial intelligence and… Swift?! Don’t you mean Python?*" No, we mean Swift. Here’s why.
 

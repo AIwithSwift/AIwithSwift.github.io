@@ -4,7 +4,7 @@ title: Book
 permalink: /book/
 ---
 
-<center><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/cover.png" width="60%" style="padding: 20px;"/></center>
+<!-- <center><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/cover.png" width="60%" style="padding: 20px;"/></center> -->
 
 *Practical AI with Swift* is a one-stop-shop for artificial intelligence and machine learning with Swift. Over the first two parts, we’ll cover the fundamental theory of AI—essential for any developer working in the space—and the practical application of that theory, using Swift.
 In the third and final part, we’ll explore the application of Swift-based AI and ML techniques to the construction of iOS applications, including where and how AI-driven features make sense.
