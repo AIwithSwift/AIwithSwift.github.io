@@ -7,7 +7,7 @@ tags: IRL
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/oscon1.jpg"  class="postimage" />
 
-This year at OSCON (LINK), we were thrilled to have the opportunity to present our workshop, _Machine overlord and you: Building AI on iOS with open source tools_. In this workshop, we explored several extremely cool libraries and practical techniques that make use of Core ML and Vision, which are the built-in machine learning and computer vision frameworks that ship with iOS 11.
+This year at [OSCON](http://oscon.com), we were thrilled to have the opportunity to present our workshop, _Machine overlord and you: Building AI on iOS with open source tools_. In this workshop, we explored several extremely cool libraries and practical techniques that make use of Core ML and Vision, which are the built-in machine learning and computer vision frameworks that ship with iOS 11.
 
 In this post, we'll point you at several of the resources we used and demonstrated in the workshop. There's a lot of fantastic material out there for getting started with these topics!
 
@@ -23,9 +23,9 @@ Of course, training a model from your own data can take a long time, and sometim
 
 It's worth pointing out that all of these models have their own license terms that you must follow. Many are under open source licenses, but some restrict their use to academic and personal use. Always read the terms!
 
+## Our Code
+
+If you'd like to play with the code that we put together over the course of the workshop, you can [find it on GitHub](https://github.com/thesecretlab/machine-overlord-and-you). We've released it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
 We're extremely pleased to have had the opportunity to present this workshop at OSCON's 20th anniversary event, and we're looking forward to sharing more in the future!
 
-<!--
-## Use
-This content was written by the authors named above, release for use under the [MIT License](https://opensource.org/licenses/MIT).
--->
