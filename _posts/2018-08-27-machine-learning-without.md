@@ -139,7 +139,7 @@ So we can say his behaviour is likely to correspond to the current employee with
 
 ✝ *This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" /> <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K5.png" /> <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K8.png" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" />
 
 This selection can be made less error-prone in a few ways. Though there are arguments that the best *K* is an odd number around the square root of the total number of points in your past data, there are other methods that employ what is effectively trial-and-error. But, no matter what you do, it should be known: accuracy of both nearest neighbour and a method for selecting *K* will vary wildly when applied to different datasets, and with complex input it is often difficult to see when it has gone wrong.
 
