@@ -9,37 +9,37 @@ tags: IRL, Algorithms
 
 The authors of this site were lucky enough to spend the past week at one of our favourite conferences: [/dev/world](https://devworld.com.au). Focused on development for Apple technologies, this conference is now in its eleventh year and has a growing community that come from all over Australia and New Zealand to attend in Melbourne each year.
 
-I was lucky enough to speak at /dev/world this year for the first time, with a talk titled [**Machine Learning ...without the machine**](https://devworld.com.au/sessions/15.html). My description argued that it is "crucial to understand the steps being done by a computer when you use tools like CoreML and CreateML in order to make informed decisions in the human-driven design and data selection stages that come before model training" and that I could teach underlying principals with only visual examples and very little actual *maths**.
+I was lucky enough to speak at /dev/world this year for the first time, with a talk titled [*Machine Learning ...without the machine*](https://devworld.com.au/sessions/15.html). My description argued that it is "crucial to understand the steps being done by a computer when you use tools like CoreML and CreateML in order to make informed decisions in the human-driven design and data selection stages that come before model training" and that I could teach underlying principals with only visual examples and very little actual *maths*.
 
 Despite using the evil M-word--and being up against the very talented [Keith Lang](https://devworld.com.au/sessions/20.html) in the other talk stream--I had high attendance and received very positive feedback. I enjoyed it so much I thought I would summarise and expand upon the talk content here, including some resources that can be used to learn more.
 
 
 ## Terminology
 
-To begin we discussed the possible issues some may have with the talk title, to get any pedantry out of the way. The title of this talk uses *Machine Learning*, but the distinction between ML and *Artificial Intelligence* is often defined as AI is the initial presentation of some knowledge, ML is the integration of feedback to learn from its mistakes. Quite a few older systems had AI without ML at all and, depending on the purpose, sometimes that is all you need. The field that overarches both of these concepts--and more, including general presentation and manipulating of data--is *Data Science*. So this looks something like:
+To begin we discussed the possible issues some may have with the talk title, to get any pedantry out of the way. The title of this talk uses **Machine Learning**, but the distinction between ML and **Artificial Intelligence** is often defined as AI is the initial presentation of some knowledge, ML is the integration of feedback to learn from its mistakes. Quite a few older systems had AI without ML at all and, depending on the purpose, sometimes that is all you need. The field that overarches both of these concepts--and more, including general presentation and manipulating of data--is **Data Science**. So this looks something like:
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/terminology.png" class="center" />
 
-Cool? Cool. So this talk's content **is** artificial intelligence, and it is **a type** of data science, but it is only the **first step** in machine learning. In fact, only some of the methods discussed can "learn" after deployment.
+Cool? Cool. So this talk's content *is* artificial intelligence, and it is *a type* of data science, but it is only the *first step* in machine learning. In fact, only some of the methods discussed can "learn" after deployment.
 
 A few common terms appear in descriptions throughout:
-* *Observations* refer to a set of past data collected that future knowledge will be derived or assumed from. *An observation* is a single entry in this past data, say a line in a table.
-* *Input* refers to the single entry that is yet to be processed--sorted, placed or classified. This is the thing you are trying to get new knowledge of or for.
-* *Attributes* are the things known about each entry, both observation and input.
-* *Outcome* or *class* are used interchangeably to refer to the thing **you want to know** about each entry, present in the observations but still required for the input. This is often one of a set of pre-chosen options.
+* **Observations** refer to a set of past data collected that future knowledge will be derived or assumed from. **An observation** is a single entry in this past data, say a line in a table.
+* **Input** refers to the single entry that is yet to be processed--sorted, placed or classified. This is the thing you are trying to get new knowledge of or for.
+* **Attributes** are the things known about each entry, both observation and input.
+* **Outcome** or **class** are used interchangeably to refer to the thing *you want to know* about each entry, present in the observations but still required for the input. This is often one of a set of pre-chosen options.
 
-So, given a set of *observations*, process *input* with the same *attributes* to get its assumed *class*.
-Given a set of *cat and dog pictures*, we processed *a new image*, extracted its *features and colour composition* and found the computer thought it was a *dog*.
+So, given a set of **observations**, process **input** with the same **attributes** to get its assumed **class**.
+Given a set of **cat and dog pictures**, we processed **a new image**, extracted its **features and colour composition** and found the computer thought it was a *dog*.
 
-Next, let's discuss three simple terms used to discuss some **purposes** for machine learning AKA the types of questions you can answer using different methods. The first is *Descriptive*, which is asking "what does my data say has happened in the past?". This is the aim of methods such as clustering that **describe and summarise** your data, often with the explicit purpose of **identifying significant or anomalous observations**. The second is *Predictive*, which is asking "based on what has happened in the past, what will happen now?". This is the aim of methods such as classification or regression, who seek to apply more information to some input based on the information associated with past observations. The third is *Prescriptive*, which is asking "based on what has happened in the past, what should I do now?". This often builds upon predictive systems, with the addition of contextual knowledge that dictates appropriate response to predicted outcome.
+Next, let's discuss three simple terms used to discuss some *purposes* for machine learning AKA the types of questions you can answer using different methods. The first is **Descriptive**, which is asking "what does my data say has happened in the past?". This is the aim of methods such as clustering that *describe and summarise* your data, often with the explicit purpose of *identifying significant or anomalous observations*. The second is **Predictive**, which is asking "based on what has happened in the past, what will happen now?". This is the aim of methods such as classification or regression, who seek to apply more information to some input based on the information associated with past observations. The third is **Prescriptive**, which is asking "based on what has happened in the past, what should I do now?". This often builds upon predictive systems, with the addition of contextual knowledge that dictates appropriate response to predicted outcome.
 
-Moving onto different kinds of values we would encounter when discussing the strengths and applications of different algorithms, we began with *numerical* versus *categorical* values. **FINISH**
+Moving onto different kinds of values we would encounter when discussing the strengths and applications of different algorithms, we began with **numerical** versus **categorical** values. **FINISH**
 
-These can then be broken down further: each has two sub-types that should be regarded differently in many cases. Numerical values can be *discrete* or *continuous*. Put simply, the difference is that if there is a set number of values something can be, it is discrete. If not, it is continuous. For example, a set of all whole numbers between 0 and 100 would be discrete, whereas a set of every decimal between 0 and 1 would be continuous as it is theoretically infinite. **FINISH**
+These can then be broken down further: each has two sub-types that should be regarded differently in many cases. Numerical values can be **discrete** or **continuous**. Put simply, the difference is that if there is a set number of values something can be, it is discrete. If not, it is continuous. For example, a set of all whole numbers between 0 and 100 would be discrete, whereas a set of every decimal between 0 and 1 would be continuous as it is theoretically infinite. **FINISH**
 
-Categorical values can be either *ordinal* or *nominal*, where ordinal refers to values which have some order or relations between them that would imply connections between some are closer than others. Nominal is the opposite, each value is equally different to all others. For example, **FINISH**
+Categorical values can be either **ordinal** or **nominal**, where ordinal refers to values which have some order or relations between them that would imply connections between some are closer than others. Nominal is the opposite, each value is equally different to all others. For example, **FINISH**
 
-Some values are not so easy to intuit. For example, postcodes should be treated as Categorical>Nominal values, as while they are represented as **numbers** and have **some vague order** you would not want to train a system to think that the distance between say Adelaide (5000) is closer to Brisbane (4000) than it is to Hobart (7000), which is almost 600km closer. Depending on what you are using the input data for, it may be more useful in this case to replace postcode entries with new state and suburb columns, or abstract ranges for each state that correspond to inner city, suburban and rural areas. Since some states are adjacent and travelling from rural areas to a city would often take you through the suburbs, these would now have become theoretically ordinal values.
+Some values are not so easy to intuit. For example, postcodes should be treated as Categorical>Nominal values, as while they are represented as *numbers* and have *some vague order* you would not want to train a system to think that the distance between say Adelaide (5000) is closer to Brisbane (4000) than it is to Hobart (7000), which is almost 600km closer. Depending on what you are using the input data for, it may be more useful in this case to replace postcode entries with new state and suburb columns, or abstract ranges for each state that correspond to inner city, suburban and rural areas. Since some states are adjacent and travelling from rural areas to a city would often take you through the suburbs, these would now have become theoretically ordinal values.
 
 Knowing how to classify your input values in this way--and recognising where another type of value would serve you better--is a key part of method and data selection that will allow the creation of more robust and useful machine learning models.
 
@@ -56,9 +56,9 @@ Let's look at a handful and compare.
 
 #### Naive Bayes
 
-Naive Bayes is the method of taking some input **I** and some set of classes {**C1**, **C2**, ... , **Cn**} and guessing the class that **I** should be based on a set of previously-classified instances **E**. This is done by using *Bayes' Theorem* to calculate the relative probability **P** of it being each class from the set of options.
+Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances *E*. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
 
-For example, say a person has a table of different types of food they have eaten lately. A friend has proposed they go out to Thai food again tonight, but they might disagree if they think they're not going to like it. So they employ the Naive Bayes method to classify the *likely outcome* of their Thai food experience from options {👍, 👎}.
+For example, say a person has a table of different types of food they have eaten lately. A friend has proposed they go out to Thai food again tonight, but they might disagree if they think they're not going to like it. So they employ the Naive Bayes method to classify the **likely outcome** of their Thai food experience from options {👍, 👎}.
 
 []()
 
@@ -70,7 +70,7 @@ Then they work out the relative probability of Thai being 👎:
 
 []()
 
-Now it's simple. The most **probable** is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
+Now it's simple. The most *probable* is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
 
 []()
 
@@ -89,18 +89,18 @@ Random Forest is a name given to a method used to reduce inaccuracies in decisio
 
 #### Distance Metrics
 
-Here, I must take a moment to discuss a concept required for some of the classification methods to follow: distance metrics. Because so many methods of machine learning rely on taking a set of input attributes--basically one row of a table, missing its class or outcome entry--and transforming it into a point that can be compared in some n-dimensional space, we require a way to measure the **distance** between points we may not be able to visually represent or conceptualise.
+Here, I must take a moment to discuss a concept required for some of the classification methods to follow: distance metrics. Because so many methods of machine learning rely on taking a set of input attributes--basically one row of a table, missing its class or outcome entry--and transforming it into a point that can be compared in some n-dimensional space, we require a way to measure the *distance* between points we may not be able to visually represent or conceptualise.
 
 Now these metrics are a point of much contention between specialists about which is most effective or correct under different circumstances, so we will just discuss some very common ones. Know that there are many more, both derivative of these and entirely different.
 
-First, we have a method used to compare inputs with **nominal** inputs **FINISH**
+First, we have a method used to compare inputs with *nominal* inputs **FINISH**
 
-The most common one **I have used**, and likely the most straightforward is *Jaccard* distance.
+The most common one *I have used*, and likely the most straightforward is **Jaccard** distance.
 
 
-Second, we have methods used to compare inputs that are either **numerical** or **ordinal** in some way.
+Second, we have methods used to compare inputs that are either *numerical* or *ordinal* in some way.
 
-One possible metric for this is Euclidean distance.
+One possible metric for this is **Euclidean** distance.
 
 []()
 
@@ -110,7 +110,7 @@ This forms something like this:
 
 []()
 
-Another possibility is Manhattan distance.
+Another possibility is **Manhattan** distance.
 
 []()
 
@@ -131,24 +131,24 @@ It works like so: say we plot some observations visually--this required somethin
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center" />
 
-So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If red star is not joined and blue triangle is joined, and their **nearest neighbour** is red, then we can say they're likely to be the same.
+So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If red star is not joined and blue triangle is joined, and their *nearest neighbour* is red, then we can say they're likely to be the same.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center" />
 
-**However** this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select **K** is effectively random✝ can result in vastly different classifications, as seen below.
+*However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select **K** is effectively random✝ can result in vastly different classifications, as seen below.
 
-✝ **This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.**
+✝ *This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" /> <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K5.png" /> <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K8.png" />
 
-This selection can be made less error-prone in a few ways. Though there are arguments that the best **K** is an odd number around the square root of the total number of points in your past data, there are other methods that employ what is effectively trial-and-error. But, no matter what you do, it should be known: accuracy of both nearest neighbour and a method for selecting **K** will vary wildly when applied to different datasets, and with complex input it is often difficult to see when it has gone wrong.
+This selection can be made less error-prone in a few ways. Though there are arguments that the best *K* is an odd number around the square root of the total number of points in your past data, there are other methods that employ what is effectively trial-and-error. But, no matter what you do, it should be known: accuracy of both nearest neighbour and a method for selecting *K* will vary wildly when applied to different datasets, and with complex input it is often difficult to see when it has gone wrong.
 
-Note that this method can also be used to classify between a set of more than two class options, but will very likely become much less accurate as the number of options grow. This is termed **the curse of dimensionality**.
+Note that this method can also be used to classify between a set of more than two class options, but will very likely become much less accurate as the number of options grow. This is termed *the curse of dimensionality*.
 
 
 #### Support Vector Machine
 
-Similar to nearest neighbour, support vector machine is an approach that utilises theoretical placement of each observation in an **n**-dimensional plane, where **n** is the number of attributes. **FINISH**
+Similar to nearest neighbour, support vector machine is an approach that utilises theoretical placement of each observation in an *n*-dimensional plane, where *n* is the number of attributes. **FINISH**
 
 #### Neural Network
 
@@ -180,7 +180,7 @@ Similar to nearest neighbour, support vector machine is an approach that utilise
 Compression
 
 
-## Regression}
+## Regression
 
 ### Methods
 
