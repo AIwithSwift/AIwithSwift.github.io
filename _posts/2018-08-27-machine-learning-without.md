@@ -31,7 +31,11 @@ A few common terms appear in descriptions throughout:
 So, given a set of **observations**, we can process **input** with the same **attributes** to get its assumed **class**.
 Given a set of **cat and dog pictures**, we processed **a new image**, extracted its **features and colour composition** and found the computer thought it was a **dog**.
 
-Next, let's discuss three simple terms used to discuss some *purposes* for machine learning AKA the types of questions you can answer using different methods. The first is **Descriptive**, which is asking "what does my data say has happened in the past?". This is the aim of methods such as clustering that *describe and summarise* your data, often with the explicit purpose of *identifying significant or anomalous observations*. The second is **Predictive**, which is asking "based on what has happened in the past, what will happen now?". This is the aim of methods such as classification or regression, who seek to apply more information to some input based on the information associated with past observations. The third is **Prescriptive**, which is asking "based on what has happened in the past, what should I do now?". This often builds upon predictive systems, with the addition of contextual knowledge that dictates appropriate response to predicted outcome.
+Next, let's discuss three simple terms used to discuss some *purposes* for machine learning AKA the types of questions you can answer using different methods. The first is **Descriptive**, which is asking "what does my data say has happened in the past?". This is the aim of methods such as clustering that *describe and summarise* your data, often with the explicit purpose of *identifying significant or anomalous observations*.
+
+The second is **Predictive**, which is asking "based on what has happened in the past, what will happen now?". This is the aim of methods such as classification or regression, who seek to apply more information to some input based on the information associated with past observations.
+
+The third is **Prescriptive**, which is asking "based on what has happened in the past, what should I do now?". This often builds upon predictive systems, with the addition of contextual knowledge that dictates appropriate response to predicted outcome.
 
 Moving onto different kinds of values we would encounter when discussing the strengths and applications of different algorithms, we began with **numerical** versus **categorical** values. **FINISH**
 
@@ -39,7 +43,7 @@ These can then be broken down further: each has two sub-types that should be reg
 
 Categorical values can be either **ordinal** or **nominal**, where ordinal refers to values which have some order or relations between them that would imply connections between some are closer than others. Nominal is the opposite, each value is equally different to all others. For example, **FINISH**
 
-Some values are not so easy to intuit. For example, postcodes should be treated as Categorical>Nominal values, as while they are represented as *numbers* and have *some vague order* you would not want to train a system to think that the distance between say Adelaide (5000) is closer to Brisbane (4000) than it is to Hobart (7000), which is almost 600km closer. Depending on what you are using the input data for, it may be more useful in this case to replace postcode entries with new state and suburb columns, or abstract ranges for each state that correspond to inner city, suburban and rural areas. Since some states are adjacent and travelling from rural areas to a city would often take you through the suburbs, these would now have become theoretically ordinal values.
+Some values are not so easy to intuit. For example, postcodes should be treated as Categorical>Nominal values, as while they are represented as *numbers* and have *some vague order* you would not want to train a system to think that the distance between say Adelaide (5000) is closer to Brisbane (4000) than it is to Hobart (7000), which is almost 600km closer. Depending on what you are using the input data for, it may be more useful to replace postcode entries with new state and suburb columns, or abstract ranges for each state that correspond to inner city, suburban and rural areas. Since some states are adjacent and travelling from rural areas to a city would often take you through the suburbs, these would now have become theoretically ordinal values.
 
 Knowing how to classify your input values in this way--and recognising where another type of value would serve you better--is a key part of method and data selection that will allow the creation of more robust and useful machine learning models.
 
@@ -137,9 +141,9 @@ So we can say his behaviour is likely to correspond to the current employee with
 
 *However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select *K* is effectively random* can result in vastly different classifications, as seen below.
 
-\**This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
-
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" />
+
+\**This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
 
 This selection can be made less error-prone in a few ways. Though there are arguments that the best *K* is an odd number around the square root of the total number of points in your past data, there are other methods that employ what is effectively trial-and-error. But, no matter what you do, it should be known: accuracy of both nearest neighbour and a method for selecting *K* will vary wildly when applied to different datasets, and with complex input it is often difficult to see when it has gone wrong.
 
