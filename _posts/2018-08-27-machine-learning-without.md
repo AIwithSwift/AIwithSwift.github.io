@@ -64,11 +64,11 @@ Let's look at a handful and compare.
 
 Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances *E*. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes.png" class="center-small" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes.png" class="center-mid" />
 
 For example, say a person has a table of different types of food they have eaten lately. A friend has proposed they go out to Thai food again tonight, but they might disagree if they think they're not going to like it. So they employ the Naive Bayes method to classify the **likely outcome** of their Thai food experience from options {👍, 👎}.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png"  />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png" class="center-small" />
 
 First they used Bayes' Theorem to work out the relative probability of Thai being 👍:</br>
 
