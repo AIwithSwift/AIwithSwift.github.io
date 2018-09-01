@@ -39,9 +39,11 @@ The third is **Prescriptive**, which is asking "based on what has happened in th
 
 Moving onto different kinds of values we would encounter when discussing the strengths and applications of different algorithms, we began with **numerical** versus **categorical** values. **FINISH**
 
-These can then be broken down further: each has two sub-types that should be regarded differently in many cases. Numerical values can be **discrete** or **continuous**. Put simply, the difference is that if there is a set number of values something can be, it is discrete. If not, it is continuous. For example, a set of all whole numbers between 0 and 100 would be discrete, whereas a set of every decimal between 0 and 1 would be continuous as it is theoretically infinite. **FINISH**
+These can then be broken down further: each has two sub-types that should be regarded differently in many cases. Numerical values can be **discrete** or **continuous**. Put simply, the difference is that if there is a set number of values something can be, it is discrete. If not, it is continuous. For example, a set of all whole numbers between 0 and 100 would be discrete, whereas a set of every decimal between 0 and 1 would be continuous as it is theoretically infinite.
 
-Categorical values can be either **ordinal** or **nominal**, where ordinal refers to values which have some order or relations between them that would imply connections between some are closer than others. Nominal is the opposite, each value is equally different to all others. For example, **FINISH**
+This becomes a bit more complicated when we consider mathematics defines sets such as natural numbers--which contains all positive integers--are defined as *discrete*. This is because even though they theoretically go on forever, you can take two numbers from within it and count all numbers that go between them. In the case of real numbers--effectively any number of any length and decimal that occurs at any point along the number line--you can fit an infinite amount of other real numbers between any two picked. For the purposes of machine learning, different methods will work better depending on if after defining an upper and lower boun, all the values between them can be counted or not.
+
+Categorical values can be either **ordinal** or **nominal**, where ordinal refers to values which have some order or relations between them that would imply connections between some are closer than others. For example, if you're doing some analysis or prediction based on data from several locations to predict something in one place, places near to it should be considered heavily while places far away should only be considered if very similar in demographic. This creates a concept of weighting or order among these values, even though they are not numbers, that would be beneficial for your analysis to be aware of. Though locations often cannot be simply swapped out for numbers because it would be difficult to map relations that occur in 3-dimensional space, in many cases of analysing ordinal values the underlying system will be treating them as representative numbers for ease of calculation. Nominal is the opposite, each value is equally different to all others. For example, in the set of primary colours each is equally and immeasurably different from the other. Another popular example of nominal values is binary categories, such as true/false. These cannot be used with methods that rely on a measure of similarity or proximity, as most do.
 
 Some values are not so easy to intuit. For example, postcodes should be treated as Categorical>Nominal values, as while they are represented as *numbers* and have *some vague order* you would not want to train a system to think that the distance between say Adelaide (5000) is closer to Brisbane (4000) than it is to Hobart (7000), which is almost 600km closer. Depending on what you are using the input data for, it may be more useful to replace postcode entries with new state and suburb columns, or abstract ranges for each state that correspond to inner city, suburban and rural areas. Since some states are adjacent and travelling from rural areas to a city would often take you through the suburbs, these would now have become theoretically ordinal values.
 
@@ -62,17 +64,23 @@ Let's look at a handful and compare.
 
 Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances *E*. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
 
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes.png" class="center" />
+
 For example, say a person has a table of different types of food they have eaten lately. A friend has proposed they go out to Thai food again tonight, but they might disagree if they think they're not going to like it. So they employ the Naive Bayes method to classify the **likely outcome** of their Thai food experience from options {👍, 👎}.
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png" class="center" />
 
 First they used Bayes' Theorem to work out the relative probability of Thai being 👍:
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb1.png" class="center" />
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center" />
 
 Then they work out the relative probability of Thai being 👎:
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb2.png" class="center" />
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer2.png" class="center" />
 
 Now it's simple. The most *probable* is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
 
