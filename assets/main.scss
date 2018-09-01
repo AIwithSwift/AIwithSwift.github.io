@@ -40,10 +40,16 @@ $brand-color:  #ED5837;
 }
 
 .center-mid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 	width: 50%;
 }
 
 .center-small {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 	width: 30%;
 }
 
