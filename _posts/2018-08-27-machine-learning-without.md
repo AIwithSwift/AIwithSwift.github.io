@@ -137,7 +137,7 @@ So we can say his behaviour is likely to correspond to the current employee with
 
 *However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select *K* is effectively random* can result in vastly different classifications, as seen below.
 
-\* *This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
+\**This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" />
 
@@ -198,4 +198,4 @@ So this was a very quick introduction to some machine learning terminology and c
 * If you're willing to invest, there are also relatively cheap online university courses on data science from a number of reputable institutions, such as [Foundations of Data Science at Berkeley](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science#courses).
 their extensive [AI education site](https://ai.google/education).
 * There are also a number of more human experience-centric write-ups out there, such as an AI-focused MIT researcher's [**Lessons from My First Two Years of AI Research**](http://web.mit.edu/tslvr/www/lessons_two_years.html).
-* Or just have a go! Download [Rstudio](https://www.rstudio.com), some [CoreML](https://developer.apple.com/documentation/coreml) bits, or even a dedicated application like [Weka Explorer](https://www.cs.waikato.ac.nz/~ml/weka/gui_explorer.html) and play around with info from blogs and documentation on Google until something clicks. Some people's brains just work that way. ¯\_(ツ)_/¯
+* Or just have a go! Download [Rstudio](https://www.rstudio.com), some [CoreML](https://developer.apple.com/documentation/coreml) bits, or even a dedicated application like [Weka Explorer](https://www.cs.waikato.ac.nz/~ml/weka/gui_explorer.html) and play around with info from blogs and documentation on Google until something clicks. Some people's brains just work that way. ¯\\_(ツ)_/¯
