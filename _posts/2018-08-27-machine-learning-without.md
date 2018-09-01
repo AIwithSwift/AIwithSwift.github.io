@@ -29,7 +29,7 @@ A few common terms appear in descriptions throughout:
 * **Outcome** or **class** are used interchangeably to refer to the thing *you want to know* about each entry, present in the observations but still required for the input. This is often one of a set of pre-chosen options.
 
 So, given a set of **observations**, process **input** with the same **attributes** to get its assumed **class**.
-Given a set of **cat and dog pictures**, we processed **a new image**, extracted its **features and colour composition** and found the computer thought it was a *dog*.
+Given a set of **cat and dog pictures**, we processed **a new image**, extracted its **features and colour composition** and found the computer thought it was a **dog**.
 
 Next, let's discuss three simple terms used to discuss some *purposes* for machine learning AKA the types of questions you can answer using different methods. The first is **Descriptive**, which is asking "what does my data say has happened in the past?". This is the aim of methods such as clustering that *describe and summarise* your data, often with the explicit purpose of *identifying significant or anomalous observations*. The second is **Predictive**, which is asking "based on what has happened in the past, what will happen now?". This is the aim of methods such as classification or regression, who seek to apply more information to some input based on the information associated with past observations. The third is **Prescriptive**, which is asking "based on what has happened in the past, what should I do now?". This often builds upon predictive systems, with the addition of contextual knowledge that dictates appropriate response to predicted outcome.
 
