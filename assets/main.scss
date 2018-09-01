@@ -36,7 +36,15 @@ $brand-color:  #ED5837;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    max-width: 80%;
+}
+
+.center-medium {
+	width: 50%;
+}
+
+.center-small {
+	width: 30%;
 }
 
 button {

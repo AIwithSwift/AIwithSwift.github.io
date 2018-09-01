@@ -64,23 +64,23 @@ Let's look at a handful and compare.
 
 Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances *E*. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes.png" class="center-small" />
 
 For example, say a person has a table of different types of food they have eaten lately. A friend has proposed they go out to Thai food again tonight, but they might disagree if they think they're not going to like it. So they employ the Naive Bayes method to classify the **likely outcome** of their Thai food experience from options {👍, 👎}.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png"  />
 
-First they used Bayes' Theorem to work out the relative probability of Thai being 👍:
+First they used Bayes' Theorem to work out the relative probability of Thai being 👍:</br>
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb1.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb1.png" class="center-mid" />
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center-mid" /></br>
 
-Then they work out the relative probability of Thai being 👎:
+Then they work out the relative probability of Thai being 👎:</br>
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb2.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb2.png" class="center-mid" />
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer2.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer2.png" class="center-mid" /></br>
 
 Now it's simple. The most *probable* is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
 
@@ -141,11 +141,11 @@ Nearest neighbour (or K-nearest neighbour) is a method that utilises a theory si
 
 It works like so: say we plot some observations visually--this required something with very few attributes. Given the below example, where we have plotted some worker's annual incomes and average hours worked per week, let's say the colours/shapes correspond to something like whether or not they have joined the worker's union. They just hired a new employee, marked by a question mark, and the workers want to know whether or not they're likely to join.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center-mid" />
 
 So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If red star is not joined and blue triangle is joined, and their *nearest neighbour* is red, then we can say they're likely to be the same.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center-mid" />
 
 *However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select *K* is effectively random* can result in vastly different classifications, as seen below.
 
