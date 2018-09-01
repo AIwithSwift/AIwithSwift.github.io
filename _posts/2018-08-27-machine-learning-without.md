@@ -5,7 +5,7 @@ author: Mars Geldard
 tags: IRL, Algorithms
 ---
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars-speaking.png" class="postimage" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/mars-speaking.jpg" class="postimage" />
 
 The authors of this site were lucky enough to spend the past week at one of our favourite conferences: [/dev/world](https://devworld.com.au). Focused on development for Apple technologies, this conference is now in its eleventh year and has a growing community that come from all over Australia and New Zealand to attend in Melbourne each year.
 
