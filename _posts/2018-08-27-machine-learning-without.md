@@ -70,17 +70,17 @@ For example, say a person has a table of different types of food they have eaten
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png" class="center-small" />
 
-First they used Bayes' Theorem to work out the relative probability of Thai being 👍:</br>
+First they used Bayes' Theorem to work out the relative probability of Thai being 👍:<br>
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb1.png" class="center-mid" />
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center-mid" /></br>
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center-mid" /><br>
 
-Then they work out the relative probability of Thai being 👎:</br>
+Then they work out the relative probability of Thai being 👎:<br>
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb2.png" class="center-mid" />
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer2.png" class="center-mid" /></br>
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer2.png" class="center-mid" /><br>
 
 Now it's simple. The most *probable* is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
 
