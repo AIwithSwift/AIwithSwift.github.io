@@ -82,7 +82,7 @@ Then they work out the relative probability of Thai being 👎:<br>
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer2.png" class="center-mid" /><br>
 
-Now it's simple. The most *probable* is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
+Now it's simple. The most *probable* is whichever one has a greater relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai2.png" class="center-small" />
 
@@ -143,7 +143,7 @@ It works like so: say we plot some observations visually--this required somethin
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center-mid" />
 
-So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If red star is not joined and blue triangle is joined, and their *nearest neighbour* is red, then we can say they're likely to be the same.
+So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If 🔺 is not joined and 🔹 is joined, and their *nearest neighbour* is 🔺, then we can say they're likely to be the same.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center-mid" />
 
