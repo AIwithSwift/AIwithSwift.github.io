@@ -135,9 +135,9 @@ So we can say his behaviour is likely to correspond to the current employee with
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center" />
 
-*However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select **K** is effectively random✝ can result in vastly different classifications, as seen below.
+*However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? We average! In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select *K* is effectively random* can result in vastly different classifications, as seen below.
 
-✝ *This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
+\* *This is termed "bootstrapping" in data science, likely due to experts not wanting to say that a method requires you to select something at random as they're equally likely to work or not.*
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" />
 
