@@ -84,7 +84,7 @@ Then they work out the relative probability of Thai being 👎:<br>
 
 Now it's simple. The most *probable* is whichever one has a higher relative probability. In this case it is 👍, so we can fill that in and say they're probably happy with their friend's choice of food.
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai2.png" class="center-small" />
 
 But if we look at the input again, we probably could have just asked which outcome most commonly corresponded with the given input (Thai) in the past data. We would have gotten the same answer from many people just from visual inspection. It is a very straightforward assumption: the outcome that has most often corresponded with this input in the past will be the outcome in this case. The only reason we call this "artificial intelligence" is because it's a method often employed with complex parametric input that would be unfeasible for a human to do on paper over and over again for each input. So this AI is really just automated maths, as you'll soon see the even the most mysterious and complex machine intelligence always is.
 
