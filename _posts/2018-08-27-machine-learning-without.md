@@ -105,9 +105,9 @@ Here, I must take a moment to discuss a concept required for some of the classif
 
 Now these metrics are a point of much contention between specialists about which is most effective or correct under different circumstances, so we will just discuss some very common ones. Know that there are many more, both derivative of these and entirely different.
 
-First, we have a method used to compare inputs with *nominal* inputs **FINISH**
+First, we have a method used to compare inputs with *nominal* inputs. Because their possible values have equal similarity and dissimilarity, comparisons are made on whole sets of values at once to produce a rating of their similarity.
 
-The most common one *I have used*, and likely the most straightforward is **Jaccard** distance. This takes two inputs and calculates the "distance" between them as a score of similarity divided by difference.
+The most common one *I have used*, and likely the most straightforward is **Jaccard** distance. This takes two inputs and calculates the "distance" between them as a score of overlap divided by difference.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jaccard1.png" class="center-mid" />
 
@@ -145,7 +145,33 @@ This forms something like this:
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center-mid" />
 
-Using these types of calculations we can now calculate the distances between abstract sets of multiple, possibly even non-numeric values.
+So say we use a well-used example in data science: flower measurements. So we have some flowers. For some hypothetical further ML purpose, we first want to know which pair are the most similar or *closest* to each other among them.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/flowers.png" class="center-mid" />
+
+So we can *normalise* the values, so they have an equal range to compare. This is done by changing the upper and lower bounds of possible values to 1 and 0 respectively, leaving all values in between them.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/flowers2.png" class="center-mid" />
+
+Now we can use our two distance metrics we have learned for numerical values from above. First, we get pairs of values for each pair of flowers.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/pairs.png" class="center-mid" />
+
+Then we can try with our Euclidean distance, using the square root of the squared difference between each pair of values.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance1.png" class="center" />
+
+And we can try with our Manhattan distance, using the absolute value (ignore any negatives) of the difference between each pair of values.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance2.png" class="center" />
+
+At this point you might see that Manhattan distance is good for enhancing differences, while Euclidean distance smooths differences. These are suited and used for different purposes with different accompanying algorithms and machine learning methods.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance3.png" class="center" />
+
+Easy? Easy.
+
+Using the types of calculations covered in this section we can now calculate the distances between abstract sets of multiple, possibly even non-numeric values.
 
 
 #### Nearest Neighbour
