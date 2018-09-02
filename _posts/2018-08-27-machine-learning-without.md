@@ -180,11 +180,11 @@ Nearest neighbour (or K-nearest neighbour) is a method that utilises a theory si
 
 It works like so: say we plot some observations visually--this required something with very few attributes. Given the below example, where we have plotted some worker's annual incomes and average hours worked per week, let's say the colours/shapes correspond to something like whether or not they have joined the worker's union. They just hired a new employee, marked by a question mark, and the workers want to know whether or not they're likely to join.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center" />
 
 So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If 🔺 is not joined and 🔹 is joined, and their *nearest neighbour* is 🔺, then we can say they're likely to be the same.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center" />
 
 *However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? **We average!**
 
