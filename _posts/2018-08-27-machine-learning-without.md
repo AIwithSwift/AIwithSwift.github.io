@@ -143,7 +143,7 @@ The Manhattan distance between two sets of values is equal to the distance betwe
 
 This forms something like this:
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center-mid" />
 
 So say we use a well-used example in data science: flower measurements. So we have some flowers. For some hypothetical further ML purpose, we first want to know which pair are the most similar or *closest* to each other among them.
 
@@ -151,7 +151,7 @@ So say we use a well-used example in data science: flower measurements. So we ha
 
 So we can *normalise* the values, so they have an equal range to compare. This is done by changing the upper and lower bounds of possible values to 1 and 0 respectively, leaving all values in between them.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/flowers2.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/flowers2.png" class="center" />
 
 Now we can use our two distance metrics we have learned for numerical values from above. First, we get pairs of values for each pair of flowers.
 
