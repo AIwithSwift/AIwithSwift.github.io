@@ -169,7 +169,7 @@ At this point you might see that Manhattan distance is good for enhancing differ
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance3.png" class="center-mid" />
 
-Easy? Easy.
+Either way, our most similar flowers are 🌼 and 🌸. Easy? Easy.
 
 Using the types of calculations covered in this section we can now calculate the distances between abstract sets of multiple, possibly even non-numeric values.
 
