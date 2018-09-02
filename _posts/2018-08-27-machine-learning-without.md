@@ -127,7 +127,7 @@ Second, we have methods used to compare inputs that are either *numerical* or *o
 
 One possible metric for this is **Euclidean** distance.
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/euclid-algo.png" class="center" />
 
 The Euclidean distance between two sets of values is equal to the square root of the squared distance between first value in each set, plus the squared distance between the second value in each set, plus the squared distance between the third value in each set, and so on. The distance between two single values is usually just the numerical difference,  or degrees of separation for ordinal values that can have their proximities mapped or be assigned corresponding indices.
 
@@ -137,8 +137,7 @@ This forms something like this:
 
 Another possibility is **Manhattan** distance.
 
-[]()
-
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhat-algo.png" class="center" />
 
 The Manhattan distance between two sets of values is equal to the distance between first value in each set, plus the distance between the second value in each set, plus the distance between the third value in each set, and so on. The distance between two single values is still usually just the numerical difference or degrees of separation.
 
