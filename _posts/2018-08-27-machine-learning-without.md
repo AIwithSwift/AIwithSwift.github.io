@@ -227,4 +227,4 @@ their extensive [AI education site](https://ai.google/education).
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/comic.jpg" class="center-mid" />
 
-*A lovely audience member's caricature of me speaking, math bits flying around my head.*
+*A lovely audience member's charicature of me speaking, math bits flying around my head.*
