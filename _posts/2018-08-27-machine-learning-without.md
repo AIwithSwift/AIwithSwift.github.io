@@ -37,9 +37,9 @@ The second is **Predictive**, which is asking "based on what has happened in the
 
 The third is **Prescriptive**, which is asking "based on what has happened in the past, what should I do now?". This often builds upon predictive systems, with the addition of contextual knowledge that dictates appropriate response to predicted outcome.
 
-Moving onto different kinds of values we would encounter when discussing the strengths and applications of different algorithms, we began with **numerical** versus **categorical** values. **FINISH**
+Moving onto different kinds of values we would encounter when discussing the strengths and applications of different algorithms, we began with **numerical** versus **categorical** values. This is a pretty intuitive distinction: numerical is number, categorical is category. If you are crunching an online store with a database full of movies then the price of each movie would be numerical, while the genre of each would be categorical. A third type of value common in observations is unique identifiers, but these are not discussed here as they should be omitted during analysis.
 
-These can then be broken down further: each has two sub-types that should be regarded differently in many cases. Numerical values can be **discrete** or **continuous**. Put simply, the difference is that if there is a set number of values something can be, it is discrete. If not, it is continuous. For example, a set of all whole numbers between 0 and 100 would be discrete, whereas a set of every decimal between 0 and 1 would be continuous as it is theoretically infinite.
+These numerical and categorical value types can then be broken down further: each has two sub-types that should be regarded differently in many cases. Numerical values can be **discrete** or **continuous**. Put simply, the difference is that if there is a set number of values something can be, it is discrete. If not, it is continuous. For example, a set of all whole numbers between 0 and 100 would be discrete, whereas a set of every decimal between 0 and 1 would be continuous as it is theoretically infinite.
 
 This becomes a bit more complicated when we consider mathematics defines sets such as natural numbers--which contains all positive integers--are defined as *discrete*. This is because even though they theoretically go on forever, you can take two numbers from within it and count all numbers that go between them. In the case of real numbers--effectively any number of any length and decimal that occurs at any point along the number line--you can fit an infinite amount of other real numbers between any two picked. For the purposes of machine learning, different methods will work better depending on if after defining an upper and lower boun, all the values between them can be counted or not.
 
@@ -53,7 +53,7 @@ Knowing how to classify your input values in this way--and recognising where ano
 
 Classification is the application most commonly associated with machine learning in the eyes of the broader public, particularly in the case of one of the most widely-used methods: neural networks. Many of those around us who are aware of technological trends but not particularly technical themselves even believe that neural networks are how all machine learning works, that this is the only method you can use. It's not. This one just has a catch name that people can use cool brain pictures with and claim that "no-one knows how it works" because it's the hardest to expose the internal processes of.
 
-There are many others, many of which are simple enough to demonstrate on paper. They are used to drive many systems, such as recognisers made to interpret voice input, or label images or video content; recommendation systems present in online stores, social media, streaming platforms and more; **FINISH**
+There are many others, many of which are simple enough to demonstrate on paper. They are used to drive many systems, such as recognisers made to interpret voice input, or label images or video content; recommendation systems present in online stores, social media, streaming platforms and more; as well as a number of decision-making components that make large and complex systems work smarter. So many clever and varied applications, the list could go on forever--basically think of everything that could benefit from responding dynamically based on experience.
 
 Let's look at a handful and compare.
 
@@ -107,8 +107,21 @@ Now these metrics are a point of much contention between specialists about which
 
 First, we have a method used to compare inputs with *nominal* inputs **FINISH**
 
-The most common one *I have used*, and likely the most straightforward is **Jaccard** distance.
+The most common one *I have used*, and likely the most straightforward is **Jaccard** distance. This takes two inputs and calculates the "distance" between them as a score of similarity divided by difference.
 
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jaccard1.png" class="center-mid" />
+
+So if we get two data entries, say two people listings with columns for gender, education level and country of origin.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jaccard2.png" class="center-mid" />
+
+Then we sort out the *set representation* (basically don't list duplicates) of what they have in common and what they have between them overall.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jaccard3.png" class="center-mid" />
+
+This is then a simple division of similarity, subtracted from one to get the inverse or dissimilarity.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/jaccard4.png" class="center-mid" />
 
 Second, we have methods used to compare inputs that are either *numerical* or *ordinal* in some way.
 
