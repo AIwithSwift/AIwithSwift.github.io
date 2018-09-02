@@ -133,17 +133,18 @@ The Euclidean distance between two sets of values is equal to the square root of
 
 This forms something like this:
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/euclidean.png" class="center-mid" />
 
 Another possibility is **Manhattan** distance.
 
 []()
 
+
 The Manhattan distance between two sets of values is equal to the distance between first value in each set, plus the distance between the second value in each set, plus the distance between the third value in each set, and so on. The distance between two single values is still usually just the numerical difference or degrees of separation.
 
 This forms something like this:
 
-[]()
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center-mid" />
 
 Using these types of calculations we can now calculate the distances between abstract sets of multiple, possibly even non-numeric values.
 
