@@ -143,11 +143,11 @@ The Manhattan distance between two sets of values is equal to the distance betwe
 
 This forms something like this:
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center" />
 
 So say we use a well-used example in data science: flower measurements. So we have some flowers. For some hypothetical further ML purpose, we first want to know which pair are the most similar or *closest* to each other among them.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/flowers.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/flowers.png" class="center" />
 
 So we can *normalise* the values, so they have an equal range to compare. This is done by changing the upper and lower bounds of possible values to 1 and 0 respectively, leaving all values in between them.
 
@@ -167,7 +167,7 @@ And we can try with our Manhattan distance, using the absolute value (ignore any
 
 At this point you might see that Manhattan distance is good for enhancing differences, while Euclidean distance smooths differences. These are suited and used for different purposes with different accompanying algorithms and machine learning methods.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance3.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance3.png" class="center-mid" />
 
 Easy? Easy.
 
@@ -180,11 +180,11 @@ Nearest neighbour (or K-nearest neighbour) is a method that utilises a theory si
 
 It works like so: say we plot some observations visually--this required something with very few attributes. Given the below example, where we have plotted some worker's annual incomes and average hours worked per week, let's say the colours/shapes correspond to something like whether or not they have joined the worker's union. They just hired a new employee, marked by a question mark, and the workers want to know whether or not they're likely to join.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center-mid" />
 
 So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If 🔺 is not joined and 🔹 is joined, and their *nearest neighbour* is 🔺, then we can say they're likely to be the same.
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center-mid" />
 
 *However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? **We average!**
 
