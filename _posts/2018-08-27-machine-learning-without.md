@@ -224,3 +224,5 @@ So this was a very quick introduction to some machine learning terminology and c
 their extensive [AI education site](https://ai.google/education).
 * There are also a number of more human experience-centric write-ups out there, such as an AI-focused MIT researcher's [*Lessons from My First Two Years of AI Research*](http://web.mit.edu/tslvr/www/lessons_two_years.html).
 * Or just have a go! Download [Rstudio](https://www.rstudio.com), some [CoreML](https://developer.apple.com/documentation/coreml) bits, or even a dedicated application like [Weka Explorer](https://www.cs.waikato.ac.nz/~ml/weka/gui_explorer.html) and play around with info from blogs and documentation on Google until something clicks. Some people's brains just work that way. ¯&#92_(ツ)_/¯
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/comic.jpg" class="center-mid" />
