@@ -133,7 +133,7 @@ The Euclidean distance between two sets of values is equal to the square root of
 
 Represented in only two dimensions for simplicity, this forms something like this:
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/euclidean.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/euclidean.png" class="center-small" />
 
 Another possibility is **Manhattan** distance.
 
@@ -143,7 +143,7 @@ The Manhattan distance between two sets of values is equal to the distance betwe
 
 This forms something like this:
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/manhattan.png" class="center-small" />
 
 So say we use a well-used example in data science: flower measurements. So we have some flowers. For some hypothetical further ML purpose, we first want to know which pair are the most similar or *closest* to each other among them.
 
