@@ -131,7 +131,7 @@ One possible metric for this is **Euclidean** distance.
 
 The Euclidean distance between two sets of values is equal to the square root of the squared distance between first value in each set, plus the squared distance between the second value in each set, plus the squared distance between the third value in each set, and so on. The distance between two single values is usually just the numerical difference,  or degrees of separation for ordinal values that can have their proximities mapped or be assigned corresponding indices.
 
-This forms something like this:
+Represented in only two dimensions for simplicity, this forms something like this:
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/euclidean.png" class="center-mid" />
 
