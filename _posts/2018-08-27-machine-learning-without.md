@@ -226,3 +226,5 @@ their extensive [AI education site](https://ai.google/education).
 * Or just have a go! Download [Rstudio](https://www.rstudio.com), some [CoreML](https://developer.apple.com/documentation/coreml) bits, or even a dedicated application like [Weka Explorer](https://www.cs.waikato.ac.nz/~ml/weka/gui_explorer.html) and play around with info from blogs and documentation on Google until something clicks. Some people's brains just work that way.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/comic.jpg" class="center-mid" />
+
+*A lovely audience member's caricature of me speaking, math bits flying around my head.*
