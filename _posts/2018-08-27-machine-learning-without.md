@@ -78,7 +78,7 @@ This is calculated by ((of all past 👍s how many have been *Thai*) * (of all p
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center-mid" /><br>
 
-Then they work out the relative probability of Thai being 👎, same as before.<br><br>
+Then they work out the relative probability of Thai being 👎, in the same way.<br><br>
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb2.png" class="center-mid" />
 
