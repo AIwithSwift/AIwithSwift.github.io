@@ -70,9 +70,11 @@ For example, say a person has a table of different types of food they have eaten
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/thai.png" class="center-small" />
 
-First they used Bayes' Theorem to work out the relative probability of Thai being 👍. This is calculated by ((of all the 👍s how many have been *Thai*) * (of all past entries how many have been 👍)) / (of all past entries how many have been *Thai*)<br>
+First they used Bayes' Theorem to work out the relative probability of Thai being 👍.<br>
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb1.png" class="center-mid" />
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-thumb1.png" class="center-mid" /><br>
+
+This is calculated by ((of all the 👍s how many have been *Thai*) * (of all past entries how many have been 👍)) / (of all past entries how many have been *Thai*)<br>
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes-answer1.png" class="center-mid" /><br>
 
