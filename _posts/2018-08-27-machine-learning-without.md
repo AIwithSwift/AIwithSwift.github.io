@@ -62,7 +62,7 @@ Let's look at a handful and compare.
 
 #### **Naive Bayes**
 
-Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances *E*. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
+Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/bayes.png" class="center-mid" />
 
