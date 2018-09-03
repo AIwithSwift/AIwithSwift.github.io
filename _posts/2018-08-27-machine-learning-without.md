@@ -182,13 +182,13 @@ It works like so: say we plot some observations visually--this required somethin
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K0.png" class="center-mid" />
 
-So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If 🔺 is not joined and 🔹 is joined, and their *nearest neighbour* is 🔺--using the some distance measure like those discussed earlier--then we can say they're likely to be the same.
+So we can say his behaviour is likely to correspond to the current employee with the most similar circumstances. If 🔺 is not joined and 🔹 is joined, and their *nearest neighbour* is 🔺--using the same distance measure like those discussed earlier--then we can say they're likely to be the same.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K1.png" class="center-mid" />
 
 *However* this method of just using a single neighbour would be incredibly prone to outliers. So what do we do when faced with outliers in data science? **We average!**
 
-In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select *K* is effectively random* can result in vastly different classifications, as seen below.
+In this method, we take more than one neighbour and use the most common class found. The number of neighbours we select *K* is effectively random* and can result in vastly different classifications, as seen below.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/K2.png" />
 
@@ -210,7 +210,9 @@ Similar to nearest neighbour, support vector machine is an approach that utilise
 
 ### Applications
 
-**FINISH** Image recognition, sound recognition
+Now that we have a better picture of the relative simplicity of classification algorithms, let's briefly look at some of the ways they can be applied and combined to imitate intelligence in a machine.
+
+**FINISH** Image recognition, sound recognition, decision-making, recommendations
 
 
 ## Clustering
