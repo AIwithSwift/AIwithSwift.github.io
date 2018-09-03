@@ -165,7 +165,7 @@ And we can try with our Manhattan distance, using the absolute value (ignore any
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance2.png" class="center" />
 
-At this point you might see that Manhattan distance is good for enhancing differences, while Euclidean distance smooths differences. These are suited and used for different purposes with different accompanying algorithms and machine learning methods.
+At this point you might see that Euclidean distance smooths differences, while Manhattan distance is good for enhancing differences. These are suited and used for different purposes with different accompanying algorithms and machine learning methods.
 
 <img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/distance3.png" class="center-mid" />
 
@@ -221,6 +221,9 @@ Similar to nearest neighbour, support vector machine is an approach that utilise
 
 **FINISH** Agglomerative versus divisive
 
+The problem with this kind of clustering is that it does not support clusters of mixed densities. It turns out this is not a trivial problem for a computer to solve. For example, in the first image below it is likely trivial for a human to distinguish clustering of three or four groups of differing densities, with a few outliers. The second and third show something like what would be produced with hierarchical clustering depending on the threshold you chose to stop at.
+
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/clusters.png" class="center" />
 
 #### **K-means**
 
