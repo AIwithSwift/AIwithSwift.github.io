@@ -60,7 +60,7 @@ Let's look at a handful and compare.
 
 ### Methods
 
-#### Naive Bayes
+#### **Naive Bayes**
 
 Naive Bayes is the method of taking some input *I* and some set of classes {*C1*, *C2*, ... , *Cn*} and guessing the class that *I* should be based on a set of previously-classified instances *E*. This is done by using **Bayes' Theorem** to calculate the relative probability *P* of it being each class from the set of options.
 
@@ -91,7 +91,7 @@ But if we look at the input again, we probably could have just asked which outco
 With most classification approaches being this type of **probabilistic classification**, it's handy to make educated guesses but understandably falls apart in cases where outside context changes or there are too many input or output options to get a significant measure. They cannot distinguish between valid observations and anomalies in past data, and will perpetuate each with equal consideration. This is unlike an approach such as a neural network that will amplify differences in input distribution, minimising this effect. Probabilistic classification methods also suffer significantly with continuous values in their input or output, such as in cases where you are trying to classify things with numbers out of a large set of possibilities. In these cases, a related approach to classification is needed: regression.
 
 
-#### Decision Trees
+#### **Decision Trees**
 
 **FINISH**
 
@@ -99,7 +99,7 @@ With most classification approaches being this type of **probabilistic classific
 Random Forest is a name given to a method used to reduce inaccuracies in decision trees introduced by random selection of branching points where there were options of equal validity. Instead of making just one tree, they will use the same past data to make many, each using different seeds or weights to mix up the random selection made at any points of equality. Then they will classify the same input with each tree and take the most common outcome--or rarely the average of the outcomes, depending on its purpose.
 
 
-#### Distance Metrics
+#### **Distance Metrics**
 
 Here, I must take a moment to discuss a concept required for some of the classification methods to follow: distance metrics. Because so many methods of machine learning rely on taking a set of input attributes--basically one row of a table, missing its class or outcome entry--and transforming it into a point that can be compared in some n-dimensional space, we require a way to measure the *distance* between points we may not be able to visually represent or conceptualise.
 
@@ -174,7 +174,7 @@ Either way, our most similar flowers are 🌼 and 🌸. Simple.
 Using the types of calculations covered in this section we can now calculate the distances between abstract sets of multiple, possibly even non-numeric values.
 
 
-#### Nearest Neighbour
+#### **Nearest Neighbour**
 
 Nearest neighbour (or K-nearest neighbour) is a method that utilises a theory similar to the old saying "show me who your friends are and I'll tell you who you are". Its core assumption is that the class that applies to new input will the class that most applied to past instances with the most similar attributes. This is really just a re-framing of the probabilistic approach covered earlier.
 
@@ -199,11 +199,11 @@ This selection can be made less error-prone in a few ways. Though there are argu
 Note that this method can also be used to classify between a set of more than two class options, but will very likely become much less accurate as the number of options grow. This is termed *the curse of dimensionality*.
 
 
-#### Support Vector Machine
+#### **Support Vector Machine**
 
 Similar to nearest neighbour, support vector machine is an approach that utilises theoretical placement of each observation in an *n*-dimensional plane, where *n* is the number of attributes. **FINISH**
 
-#### Neural Network
+#### **Neural Network**
 
 **FINISH**
 
@@ -217,16 +217,16 @@ Similar to nearest neighbour, support vector machine is an approach that utilise
 
 ### Methods
 
-#### Hierarchical
+#### **Hierarchical**
 
 **FINISH** Agglomerative versus divisive
 
 
-#### K-means
+#### **K-means**
 
-#### DBSCAN
+#### **DBSCAN**
 
-#### Mean shift
+#### **Mean shift**
 
 ### Applications
 
