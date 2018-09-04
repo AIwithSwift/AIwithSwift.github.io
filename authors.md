@@ -88,5 +88,6 @@ After settling on the name Tim Nugent, he now spends all his time attempting to 
 
 ---
 
-If you think these humans sound interesting you can <a href="https://www.secretlab.com.au/books">check out some of their other titles</a>!
+If you think these humans sound interesting you can <a href="https://www.secretlab.com.au/books">check out some of their other titles</a>!<br><br>
+
 <i>Header image by <a href="https://www.facebook.com/JulianCashPhotography/">Julian Cash Photography</a></i>
