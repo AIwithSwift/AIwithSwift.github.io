@@ -5,6 +5,7 @@ permalink: /authors/
 ---
 
 <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/authors.png" class="postimage" />
 
 ---
 
@@ -88,3 +89,4 @@ After settling on the name Tim Nugent, he now spends all his time attempting to 
 ---
 
 If you think these humans sound interesting you can <a href="https://www.secretlab.com.au/books">check out some of their other titles!
+<i>Header image by <a href="https://www.facebook.com/JulianCashPhotography/">Julian Cash Photography</a></i>
