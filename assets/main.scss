@@ -5,7 +5,7 @@ $text-color: #E6E6E6;
 $grey-color-light: #565656;
 $grey-color-dark: #ADADAD; */
 
-$brand-color:  #ED5837;
+$brand-color:  #E4002B;
 
 @import "{{ site.theme }}";
 
@@ -13,6 +13,14 @@ $brand-color:  #ED5837;
 .maxwidth-container {
 	width: 100%;
 	text-align: center;
+}
+
+a:visited {
+    color: #BA0C2F;
+}
+
+a:hover {
+    color: inherit;
 }
 
 /* Author page headshots */
@@ -56,6 +64,7 @@ $brand-color:  #ED5837;
 button {
 	color: white;
 	background-color: $brand-color;
+	text-decoration: none;
 	border-width: 0px;
 	border-radius: 4px;
 	padding: 12px 20px;
@@ -64,16 +73,20 @@ button {
 	font-weight: bold;
 }
 
+button:hover {
+	background-color: #BA0C2F;
+}
+
 /* Author page icons */
 .fontawesome-container {
 	text-align: center;
 	padding: 0 0 20px 0;
 }
 
-.fontawesome-container a {
-	font-size: 250%;
+.fontawesome-container a:hover {
+	color: #BA0C2F;
 }
 
-.fontawesome-container a:hover {
-	color: lighten($brand-color, 20%);
+.fontawesome-container a {
+	font-size: 250%;
 }
