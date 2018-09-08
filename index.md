@@ -8,7 +8,7 @@ layout: home
 **(Buy button and link to book page)**
  -->
 
-<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/book.png" class="postimage" /> <br>
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/book.png" class="postimage" /> <br><br>
 
 "*Artificial intelligence and… Swift?! Don’t you mean Python?*" No, we mean Swift. Here’s why.
 
