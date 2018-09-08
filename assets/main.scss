@@ -5,7 +5,7 @@ $text-color: #E6E6E6;
 $grey-color-light: #565656;
 $grey-color-dark: #ADADAD; */
 
-$brand-color:  #BA0C2F;
+$brand-color:  #E4002B;
 
 @import "{{ site.theme }}";
 
@@ -16,7 +16,7 @@ $brand-color:  #BA0C2F;
 }
 
 a:visited {
-    color: #E4002B;
+    color: #BA0C2F;
 }
 
 a:hover {
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-	background-color: lighten($brand-color, 15%);
+	background-color: #BA0C2F;
 }
 
 /* Author page icons */
@@ -84,7 +84,7 @@ button:hover {
 }
 
 .fontawesome-container a:hover {
-	color: #E4002B;
+	color: #BA0C2F;
 }
 
 .fontawesome-container a {
