@@ -9,11 +9,7 @@ $brand-color:  #BA0C2F;
 
 
 a:visited {
-    color: lighten($brand-color, 20%);
-}
-
-.fontawesome-container a:hover {
-	color: lighten($brand-color, 20%);
+    color: lighten($brand-color, 15%);
 }
 
 @import "{{ site.theme }}";
@@ -65,6 +61,7 @@ a:visited {
 button {
 	color: white;
 	background-color: $brand-color;
+	text-decoration: none;
 	border-width: 0px;
 	border-radius: 4px;
 	padding: 12px 20px;
@@ -77,6 +74,10 @@ button {
 .fontawesome-container {
 	text-align: center;
 	padding: 0 0 20px 0;
+}
+
+.fontawesome-container a:hover {
+	color: lighten($brand-color, 15%);
 }
 
 .fontawesome-container a {
