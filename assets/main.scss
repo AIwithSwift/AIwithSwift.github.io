@@ -19,6 +19,10 @@ a:visited {
     color: lighten($brand-color, 15%);
 }
 
+a:hover {
+    color: inherit;
+}
+
 /* Author page headshots */
 .rightalignheadshot {
 	display: inline-block;
