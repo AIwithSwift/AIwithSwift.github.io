@@ -4,7 +4,7 @@ title: Book
 permalink: /book/
 ---
 
-<center><img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/book.png" class="postimage" /></center>
+<img src="https://raw.githubusercontent.com/AIwithSwift/AIwithSwift.github.io/master/assets/images/book.png" class="postimage" /> <br>
 
 *Practical AI with Swift* is a one-stop-shop for artificial intelligence and machine learning with Swift. Over the first two parts, we’ll cover the fundamental theory of AI—essential for any developer working in the space—and the practical application of that theory, using Swift.
 In the third and final part, we’ll explore the application of Swift-based AI and ML techniques to the construction of iOS applications, including where and how AI-driven features make sense.
@@ -12,7 +12,7 @@ In the third and final part, we’ll explore the application of Swift-based AI a
 Learn everything you need to know to create and implement artificial intelligence-based features using the Swift programming language.
 For existing Swift programmers, we'll explore the use of open source tools, such as Apple’s [Turi Create](https://github.com/apple/turicreate) and Google’s [Tensor Flow for Swift](https://www.tensorflow.org/community/swift), to train and build models for use in Swift applications. We'll implement these models in CoreML, using Swift, and later, we’ll design and create a UI for them.
 
-The book will be available for physical and digital pre-order from:
+The book will be available shortly for physical and digital pre-order from:
 
 <div class="maxwidth-container">
 	<a href="https://www.amazon.com" target="_blank" >
