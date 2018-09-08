@@ -7,16 +7,21 @@ $grey-color-dark: #ADADAD; */
 
 $brand-color:  #BA0C2F;
 
+
+a:visited {
+    color: lighten($brand-color, 20%);
+}
+
+.fontawesome-container a:hover {
+	color: lighten($brand-color, 20%);
+}
+
 @import "{{ site.theme }}";
 
 /* Overall changes */
 .maxwidth-container {
 	width: 100%;
 	text-align: center;
-}
-
-a:visited {
-    color: lighten($brand-color, 20%);
 }
 
 /* Author page headshots */
@@ -76,8 +81,4 @@ button {
 
 .fontawesome-container a {
 	font-size: 250%;
-}
-
-.fontawesome-container a:hover {
-	color: lighten($brand-color, 20%);
 }
