@@ -70,6 +70,10 @@ button {
 	font-weight: bold;
 }
 
+button:hover {
+	background-color: lighten($brand-color, 15%);
+}
+
 /* Author page icons */
 .fontawesome-container {
 	text-align: center;
