@@ -12,21 +12,21 @@ In the third and final part, we’ll explore the application of Swift-based AI a
 Learn everything you need to know to create and implement artificial intelligence-based features using the Swift programming language.
 For existing Swift programmers, we'll explore the use of open source tools, such as Apple’s [Turi Create](https://github.com/apple/turicreate) and Google’s [Tensor Flow for Swift](https://www.tensorflow.org/community/swift), to train and build models for use in Swift applications. We'll implement these models in CoreML, using Swift, and later, we’ll design and create a UI for them.
 
-The book will be available shortly for physical and digital pre-order from:
+The book is available for physical and digital pre-order from:
 
 <div class="maxwidth-container">
-	<a href="https://www.amazon.com" target="_blank" >
+	<a href="https://www.amazon.com/Practical-Artificial-Intelligence-Swift-Fundamental/dp/1492044814/ref=sr_1_2?crid=10O2VQLTP58DQ&keywords=practical+artificial+intelligence+with+swift&qid=1568246598&s=gateway&sprefix=practical+artificial+intelligence%2Caps%2C210&sr=8-2" target="_blank" >
 		<button>Amazon</button>
 	</a>
-	<a href="http://shop.oreilly.com" target="_blank" >
+	<!--<a href="http://shop.oreilly.com" target="_blank" >
 		<button>O'Reilly Media</button>
-	</a>
-	<a href="https://www.bookdepository.com" target="_blank" >
+	</a>-->
+	<a href="https://www.bookdepository.com/Practical-Artificial-Intelligence-with-Swift-Mars-Geldard/9781492044819" target="_blank" >
 		<button>Book Depository</button>
 	</a>
-	<a href="https://www.safaribooksonline.com" target="_blank" >
+	<!--<a href="https://www.safaribooksonline.com" target="_blank" >
 		<button>Safari Books</button>
-	</a>
+	</a>-->
 </div>
 
 ### Topics include:
