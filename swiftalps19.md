@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authors
+title: Swift Alps 2019
 permalink: /events/swiftalps19
 ---
 
